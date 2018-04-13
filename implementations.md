@@ -28,13 +28,21 @@
 
 ### Max/MSP
 * [Official Site](https://cycling74.com/products/max)
-* A commercial VPL for musicians and artists, evolved out of PureData.
+* A commercial VPL for musicians and artists, evolved out of Pure Data.
 
 
-### PureData
+### Pure Data
 * [Official Site](https://puredata.info)
 * [Wikipedia](https://en.wikipedia.org/wiki/Pure_Data)
-* An open source VPL for musicians and artists.
+* An open source VPL for musicians and artists. Pure Data (Pd) is the prototypical example of a VPL — boxes that direct or transform flowing data, connected together with lines through which the data flows. Pd has distinctly-styled lines for messages (strings) and for signals (audio data), and type-specific "objects" (boxes) like `sin` for messages and `sin~` for signals.
+* Criticism: Objects are implemented in C, so the visual paradigm bottoms out at the level of built in objects.
+* Compliment: The help and tutorial documents are implemented as Pd patches, and you are encouraged to edit them.
+
+
+### Scratch
+* A VPL designed mainly for children. Scratch is a text-centric language that you assemble using blocks that snap together, with the syntax rules enforced by the shape of the blocks. Color is used to indicate a block's type of data or behaviour.
+* [Wikipedia](https://en.wikipedia.org/wiki/Scratch_(programming_language))
+* [Scratch 3.0](https://llk.github.io/scratch-gui/), which runs in the browser
 
 
 ### Sketchpad
