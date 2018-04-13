@@ -1,3 +1,8 @@
+### [Antimony](http://www.mattkeeter.com/projects/antimony/)
+* "A computer-aided design (CAD) tool from a parallel universe in which CAD software evolved from Lisp machines rather than drafting tables"
+* by [Matt Keeter](http://www.mattkeeter.com)
+
+
 ### [Apparatus](http://aprt.us)
 * A hybrid graphics editor and programming environment for creating interactive diagrams, created by by [Toby Schachman](https://twitter.com/tobiaschneider).
 
@@ -60,3 +65,7 @@
 ### Sketchpad
 * [HN Discussion](https://news.ycombinator.com/item?id=8912137)
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
+
+
+### [UAV Toolkit](https://fo.am/uav-toolkit/)
+* by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
