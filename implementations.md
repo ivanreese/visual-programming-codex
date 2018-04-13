@@ -47,6 +47,10 @@
 ### [Quartz Composer](https://en.wikipedia.org/wiki/Quartz_Composer)
 
 
+### [SchemeBricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
+* by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
+
+
 ### Scratch
 * A VPL designed mainly for children. Scratch is a text-centric language that you assemble using blocks that snap together, with the syntax rules enforced by the shape of the blocks. Color is used to indicate a block's type of data or behaviour.
 * [Wikipedia](https://en.wikipedia.org/wiki/Scratch_(programming_language))
