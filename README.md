@@ -6,3 +6,4 @@ Throughout this repo, the acronym VPL stands for "Visual Programming Language".
 
 1. [Reflections](reflections.md) — Talks, articles, papers, and links broadly about non-textual programming.
 1. [Implementations](implementations.md) — Specific products, projects, or prototypes.
+1. [Inspirations](inspirations.md) — Visual systems for things that only loosely resemble programming.
