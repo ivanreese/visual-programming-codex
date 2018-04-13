@@ -11,8 +11,13 @@
   * [HN Discussion](https://news.ycombinator.com/item?id=12104463)
 
 
-### Fizzygum
-* [Official Site](http://fizzygum.org)
+### [Fizzygum](http://fizzygum.org)
+* A new SmallTalk/HyperCard-like tool
+
+
+### [Generominos](http://www.galaxykate.com/generominos/)
+* Not executable, but rather a conceptual language for designing generative/interactive art and games.
+* A bit like [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
 
 
 ### Luna
