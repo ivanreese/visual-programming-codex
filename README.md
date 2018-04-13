@@ -1,4 +1,4 @@
-# Visual Programming
+# Visual Programming Codex
 
 Despite the GUI going mainstream in the 80s, the programming community has largely opted to remain in the era of the terminal. Still, there have always been magnificent visual programming projects at the periphery. This repo exists to shine a light on these alternatives, to ask what costs and benefits they offer, and reflect on the work of people pushing for a future where programming leverages more of our senses and modalities.
 
