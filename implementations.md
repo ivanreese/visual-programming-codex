@@ -1,3 +1,7 @@
+### [Apparatus](http://aprt.us)
+* A hybrid graphics editor and programming environment for creating interactive diagrams, created by by [Toby Schachman](https://twitter.com/tobiaschneider).
+
+
 ### [Bubble](https://bubble.is)
 * A visual framework for creating web applications.
 * Blog: [Creating a $100,000/mo Business That Helps People Learn to Code](https://www.indiehackers.com/businesses/bubble)
