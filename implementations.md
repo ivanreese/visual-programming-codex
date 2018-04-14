@@ -13,6 +13,11 @@
   * [HN Discussion](https://news.ycombinator.com/item?id=15681379)
 
 
+### [DeepUI](https://deepui.io)
+* Inspired by [Stop Drawing Dead Fish](reflections.md#stop-drawing-dead-fish)
+* On [Twitter](https://twitter.com/DeepUINews)
+
+
 ### Fabrik
 * Built in SmallTalk by [Apple ATG](https://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group)
 * Paper: [Fabrik: A Visual Programming Environment](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)
@@ -21,11 +26,6 @@
 
 ### [Fizzygum](http://fizzygum.org)
 * A new SmallTalk/HyperCard-like tool
-
-
-### [Generominos](http://www.galaxykate.com/generominos/)
-* Not executable, but rather a conceptual language for designing generative/interactive art and games.
-* A bit like [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
 
 
 ### [Luna](http://www.luna-lang.org)
@@ -39,7 +39,11 @@
 
 
 ### [Max/MSP](https://cycling74.com/products/max)
-* A commercial VPL for musicians and artists, evolved out of Pure Data.
+* A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data].
+
+
+### [PraxisLive](https://www.praxislive.org)
+* On [Twitter](https://twitter.com/PraxisLIVE)
 
 
 ### [Pure Data](https://puredata.info)
@@ -71,5 +75,9 @@
 * A prototype for directly manipulating abstractions by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
 * [Demo Video](https://www.youtube.com/watch?v=e6ZyswW_0oo)
 
+
 ### [UAV Toolkit](https://fo.am/uav-toolkit/)
 * by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
+
+
+### [Unison](http://unisonweb.org)
