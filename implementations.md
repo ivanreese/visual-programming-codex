@@ -67,5 +67,9 @@
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
 
 
+### ThoughtTalk
+* A prototype for directly manipulating abstractions by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
+* [Demo Video](https://www.youtube.com/watch?v=e6ZyswW_0oo)
+
 ### [UAV Toolkit](https://fo.am/uav-toolkit/)
 * by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
