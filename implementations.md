@@ -7,6 +7,10 @@
 * A hybrid graphics editor and programming environment for creating interactive diagrams, created by by [Toby Schachman](https://twitter.com/tobiaschneider).
 
 
+### [Blocky](https://developers.google.com/blockly/)
+* A library for building visual programming editors, by Google.
+* [Wikipedia](https://en.wikipedia.org/wiki/Blockly)
+
 ### [Bubble](https://bubble.is)
 * A visual framework for creating web applications.
 * Blog: [Creating a $100,000/mo Business That Helps People Learn to Code](https://www.indiehackers.com/businesses/bubble)
@@ -26,6 +30,14 @@
 
 ### [Fizzygum](http://fizzygum.org)
 * A new SmallTalk/HyperCard-like tool
+
+
+### Hopscotch
+* [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_%28programming_language%29)
+
+
+### LabVIEW
+* [Wikipedia](https://en.wikipedia.org/wiki/LabVIEW)
 
 
 ### [Luna](http://www.luna-lang.org)

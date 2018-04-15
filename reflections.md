@@ -33,6 +33,10 @@
 * A talk by [Bret Victor](worrydream.com) in which he demonstrates a prototype iPad app for interactively building animations, with an experience more akin to puppet theatre than traditional keyframe-and-curves computer animation.
 * The app allows building algebraic relationships using geometric equivalents, a la Tristan Needham's book [Visual Complex Analysis](http://usf.usfca.edu/vca/) or the [GeoGebra](https://en.wikipedia.org/wiki/GeoGebra) project. This is at odds with most computer animation tools, where dynamic relationships between visual elements are expressed using algebraic equations of the elements' numeric attributes.
 
+
+### [Types are shapes — a graphical programming exploration](https://medium.com/@stevekrouse/types-are-shapes-d6af1e83192f)
+* A blog post by [Steve Krouse](http://futureofcoding.org)
+
 ### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
 * A gallery assembled by [Eric Hosick](https://twitter.com/erichosick)
 
