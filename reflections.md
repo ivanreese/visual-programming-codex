@@ -7,6 +7,10 @@
 * A talk by [Toby Schachman](https://twitter.com/tobiaschneider)
 
 
+### [Beyond FRP: physics-inspired programming abstractions?](http://lambda-the-ultimate.org/node/2913)
+* Discussion started by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
+
+
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
 * A Tumblr collecting examples of large or messy [Blueprints](https://docs.unrealengine.com/en-us/Engine/Blueprints) from the Unreal Engine
 
