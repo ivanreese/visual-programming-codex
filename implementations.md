@@ -70,6 +70,10 @@
 * Likely one of the most famous visual programming languages, widely used for more than 20 years.
 
 
+### [NoFlo](https://noflojs.org)
+* A flow-based programming environment for JavaScript, targeting the web and Node.js.
+
+
 ### [Origami](https://origami.design)
 * A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
 * Used to prototype the UI/UX of their Paper app.
