@@ -54,6 +54,10 @@
 * A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data].
 
 
+### [Origami](https://origami.design)
+* A prototyping tool built atop Quartz Composer
+
+
 ### [PraxisLive](https://www.praxislive.org)
 * On [Twitter](https://twitter.com/PraxisLIVE)
 
@@ -93,3 +97,6 @@
 
 
 ### [Unison](http://unisonweb.org)
+
+
+### [WoofJS](http://woofjs.com/teach.html)
