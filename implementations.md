@@ -11,6 +11,11 @@
 * A library for building visual programming editors, by Google.
 * [Wikipedia](https://en.wikipedia.org/wiki/Blockly)
 
+
+### [Blueprint](https://docs.unrealengine.com/en-us/Engine/Blueprints)
+* A scripting system built into the Unreal Engine
+
+
 ### [Bubble](https://bubble.is)
 * A visual framework for creating web applications.
 * Blog: [Creating a $100,000/mo Business That Helps People Learn to Code](https://www.indiehackers.com/businesses/bubble)
@@ -42,34 +47,36 @@
 
 ### [Luna](http://www.luna-lang.org)
 * A new VPL with a simultaneous textual/visual view of the program.
-* [Reddit](https://www.reddit.com/r/LunaLang/)
+* Subreddit: [LunaLang](https://www.reddit.com/r/LunaLang/)
 * Video: [Wojciech Daniło & Marcin Kostrzewa Luna - Purely functional paradigm meets visual programming](https://www.youtube.com/watch?v=DhR6XWUBsvg)
-  Blog: [Luna, the visual way to create software](https://medium.com/@luna_language/luna-the-visual-way-to-create-software-c4db520d6d1e)
-  https://news.ycombinator.com/item?id=14612680
-* [HN Discussion](https://news.ycombinator.com/item?id=16163769)
-* [HN Discussion](https://news.ycombinator.com/item?id=14612680)
+* Medium post: [Luna, the visual way to create software](https://medium.com/@luna_language/luna-the-visual-way-to-create-software-c4db520d6d1e)
+* HN: [Luna – Visual and textual functional programming language](https://news.ycombinator.com/item?id=14612680)
+* HN: [Luna 1.0 Beta is out](https://news.ycombinator.com/item?id=16163769)
 
 
 ### [Max/MSP](https://cycling74.com/products/max)
-* A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data].
+* A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data).
+* Likely one of the most famous visual programming languages, widely used for more than 20 years.
 
 
 ### [Origami](https://origami.design)
-* A prototyping tool built atop Quartz Composer
+* A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
+* Used to prototype the UI/UX of their Paper app.
 
 
 ### [PraxisLive](https://www.praxislive.org)
+* A visual IDE for creative coding, focussing on realtime audio and video (OpenGL).
 * On [Twitter](https://twitter.com/PraxisLIVE)
 
 
 ### [Pure Data](https://puredata.info)
 * [Wikipedia](https://en.wikipedia.org/wiki/Pure_Data)
 * An open source VPL for musicians and artists. Pure Data (Pd) is the prototypical example of a VPL — boxes that direct or transform flowing data, connected together with lines through which the data flows. Pd has distinctly-styled lines for messages (strings) and for signals (audio data), and type-specific "objects" (boxes) like `sin` for messages and `sin~` for signals.
-* Criticism: Objects are implemented in C, so the visual paradigm bottoms out at the level of built in objects.
-* Compliment: The help and tutorial documents are implemented as Pd patches, and you are encouraged to edit them.
+* The help and tutorial documents are implemented as Pd patches, and you are encouraged to edit them.
 
 
 ### [Quartz Composer](https://en.wikipedia.org/wiki/Quartz_Composer)
+* A tool from Apple for creating animations and prototypes, leveraging technologies in macOS like CoreImage.
 
 
 ### [SchemeBricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)

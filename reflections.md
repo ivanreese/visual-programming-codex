@@ -12,7 +12,7 @@
 
 
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
-* A Tumblr collecting examples of large or messy [Blueprints](https://docs.unrealengine.com/en-us/Engine/Blueprints) from the Unreal Engine
+* A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs. This hits pretty close to home.
 
 
 ### [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
@@ -36,6 +36,7 @@
 
 ### [Types are shapes — a graphical programming exploration](https://medium.com/@stevekrouse/types-are-shapes-d6af1e83192f)
 * A blog post by [Steve Krouse](http://futureofcoding.org)
+
 
 ### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
 * A gallery assembled by [Eric Hosick](https://twitter.com/erichosick)
