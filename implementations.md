@@ -70,6 +70,11 @@
 * Likely one of the most famous visual programming languages, widely used for more than 20 years.
 
 
+### [Meemoo](https://meemoo.org)
+* A web-based tool for building interactive audio/visual projects, created by [Forrest Oliphant](https://www.forresto.com)
+* Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software.
+
+
 ### [NoFlo](https://noflojs.org)
 * A flow-based programming environment for JavaScript, targeting the web and Node.js.
 
