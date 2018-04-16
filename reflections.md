@@ -1,5 +1,6 @@
 ### Wikipedia Links
 * [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes an extensive list of VPLs organized by category.
+* [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
 
 ---
 
