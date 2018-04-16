@@ -34,6 +34,10 @@
 * Conspire is a Lisp-like (so non-visual, but...), designed to be extended in terms of itself: "And then it hit me: what if the editor was built from the grounds up with Lispy principles: the simplest graphically based visualization possible, extensible from within the editor, so that the editor would factually become an editor-editor"
 
 
+### [Dynamicland](http://dynamicland.org)
+* Programing wrested away from the screen, rendered into that most immersive and expressive medium, the tangible world.
+
+
 ### Fabrik
 * Built in SmallTalk by [Apple ATG](https://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group)
 * Paper: [Fabrik: A Visual Programming Environment](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)

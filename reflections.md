@@ -1,5 +1,5 @@
 ### Wikipedia Links
-* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language)
+* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes an extensive list of VPLs organized by category.
 
 ---
 
@@ -13,6 +13,11 @@
 
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
 * A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs. This hits pretty close to home.
+
+
+### [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
+* A blog post by [Michael Neilsen](http://michaelnielsen.org).
+* There's [this](http://cognitivemedium.com/magic_paper/index.html) follow-up post too.
 
 
 ### [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
