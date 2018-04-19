@@ -125,6 +125,10 @@
 * [Demo Video](https://www.youtube.com/watch?v=e6ZyswW_0oo)
 
 
+### [Tombstone Engine](http://tombstoneengine.com)
+* A game engine that includes some VPL editor tools: A [shader editor](http://tombstoneengine.com/wiki/index.php?title=Shader_Editor) and [script editor](http://tombstoneengine.com/wiki/index.php?title=Script_Editor).
+
+
 ### [UAV Toolkit](https://fo.am/uav-toolkit/)
 * by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
 
