@@ -21,6 +21,10 @@
 * There's [this](http://cognitivemedium.com/magic_paper/index.html) follow-up post too.
 
 
+### Deutsch limit
+* ["The problem with visual programming is that you can’t have more than 50 visual primitives on the screen at the same time."](https://en.wikipedia.org/wiki/Deutsch_limit)
+
+
 ### [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
 * A talk by [Bret Victor](worrydream.com) in which he shares an idea for a direct-manipulation programming environment.
 * [Additional notes](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/)
@@ -35,9 +39,18 @@
 * Notes by [Michael Nielsen](https://twitter.com/michael_nielsen)
 
 
+### Stéphane Conversy
+* Paper: [A visual perception account of programming languages : finding the natural science in the art](https://hal.inria.fr/hal-00737414)
+* Paper: [Unifying Textual and Visual: A Theoretical Account of the Visual Perception of Programming Languages](https://dl.acm.org/citation.cfm?id=2661138)
+
+
 ### [Stop Drawing Dead Fish](https://vimeo.com/64895205)
 * A talk by [Bret Victor](worrydream.com) in which he demonstrates a prototype iPad app for interactively building animations, with an experience more akin to puppet theatre than traditional keyframe-and-curves computer animation.
 * The app allows building algebraic relationships using geometric equivalents, a la Tristan Needham's book [Visual Complex Analysis](http://usf.usfca.edu/vca/) or the [GeoGebra](https://en.wikipedia.org/wiki/GeoGebra) project. This is at odds with most computer animation tools, where dynamic relationships between visual elements are expressed using algebraic equations of the elements' numeric attributes.
+
+
+### Statecharts
+* Slides: [Are statecharts the next big UI paradigm?](https://news.ycombinator.com/item?id=15835005)
 
 
 ### [Types are shapes — a graphical programming exploration](https://medium.com/@stevekrouse/types-are-shapes-d6af1e83192f)
@@ -46,7 +59,3 @@
 
 ### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
 * A gallery assembled by [Eric Hosick](https://twitter.com/erichosick)
-
-
-### Statecharts
-* Slides: [Are statecharts the next big UI paradigm?](https://news.ycombinator.com/item?id=15835005)

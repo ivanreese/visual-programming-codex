@@ -28,9 +28,17 @@
   * [HN Discussion](https://news.ycombinator.com/item?id=15681379)
 
 
+### Cornell Program Synthesizer
+* Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755) — "Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool."
+
+
 ### [DeepUI](https://deepui.io)
 * Inspired by [Stop Drawing Dead Fish](reflections.md#stop-drawing-dead-fish)
 * On [Twitter](https://twitter.com/DeepUINews)
+
+
+### DRAKON
+* [Wikipedia](https://en.wikipedia.org/wiki/DRAKON): "The language provides a uniform way to represent flowcharts of any complexity that are easy to read and understand."
 
 
 ### Duangle Prototypes: Noodles, Conspire
@@ -88,6 +96,10 @@
 ### [Origami](https://origami.design)
 * A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
 * Used to prototype the UI/UX of their Paper app.
+
+
+### PA3D
+* [Video demo](https://www.youtube.com/watch?v=5JzaEUJ7IbE) — "PAD3D was a very early (about 1993) zoomable user interface implemented on an SGI in Lisp using accelerated 3D graphics.  This demo shows zooming, authoring, text, images, dynamic fisheye of source code, live visual bookmarks, and a nested zooming file browser."
 
 
 ### [PraxisLive](https://www.praxislive.org)
