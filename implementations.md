@@ -7,11 +7,6 @@
 * A hybrid graphics editor and programming environment for creating interactive diagrams, created by by [Toby Schachman](https://twitter.com/tobiaschneider).
 
 
-### [Befunge](http://catseye.tc/article/Languages.md#befunge-93)
-* [Wikipedia](https://en.wikipedia.org/wiki/Befunge): "Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid."
-* [GIF](https://twitter.com/algoritmic/status/988137596638425089) of Befunge code being interpreted
-
-
 ### [Blender](https://www.blender.org/)
 * Blender is an open-source 3D animation program with several visual programming tools.
 * The [node editor](https://docs.blender.org/manual/en/dev/editors/node_editor/introduction.html) allows you to create materials (shaders), texture maps, and compositing flows. They're also used for [rendering](https://docs.blender.org/manual/en/dev/render/cycles/nodes/introduction.html). These tools use the very familiar nodes-and-wires patching approach.
@@ -154,3 +149,16 @@
 
 
 ### [WoofJS](http://woofjs.com/teach.html)
+
+
+---
+
+
+# Esoteric VPLs
+
+
+* [Befunge](http://catseye.tc/article/Languages.md#befunge-93)
+    * [Wikipedia](https://en.wikipedia.org/wiki/Befunge): "Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid."
+    * [GIF](https://twitter.com/algoritmic/status/988137596638425089) of Befunge code being interpreted
+
+* [Cvlemar](http://esolangs.org/wiki/Cvlemar) — "A program is a map of lines connected to nodes. It does steps by sending each input node to all lines from that node, and sends output to the output nodes. If more than one number sending to a output node, all are added together."
