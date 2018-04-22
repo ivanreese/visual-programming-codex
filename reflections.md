@@ -1,24 +1,35 @@
-### Wikipedia Links
+### Wikipedia
 * [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes an extensive list of VPLs organized by category.
 * [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
 
+
 ---
 
-### [Alternative Programming Interfaces for Alternative Programmers](https://vimeo.com/41968528)
-* A talk by [Toby Schachman](https://twitter.com/tobiaschneider)
+
+### by [Michael Neilsen](http://michaelnielsen.org).
+* Blog post: [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
+    * [Follow-up](http://cognitivemedium.com/magic_paper/index.html)
 
 
-### [Beyond FRP: physics-inspired programming abstractions?](http://lambda-the-ultimate.org/node/2913)
-* Discussion started by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
+### by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
+* Talk: [The Future of Programming will be Live](https://www.youtube.com/watch?v=bnqkglrSqrg)
+* Discussion: [Beyond FRP: physics-inspired programming abstractions?](http://lambda-the-ultimate.org/node/2913)
+
+
+### by Stéphane Conversy
+* Paper: [A visual perception account of programming languages : finding the natural science in the art](https://hal.inria.fr/hal-00737414) — "[A] true visual language would then be a graphical language that actually leverages the perceptual system" — Proposes using [Jacques Bertin](https://en.wikipedia.org/wiki/Jacques_Bertin)'s [Semiologie Graphique](https://fr.wikipedia.org/wiki/Sémiologie_graphique) as the lens through which to see programming language representation.
+* Paper: [Unifying Textual and Visual: A Theoretical Account of the Visual Perception of Programming Languages](https://dl.acm.org/citation.cfm?id=2661138)
+
+
+### by [Toby Schachman](https://twitter.com/tobiaschneider)
+* Talk: [Alternative Programming Interfaces for Alternative Programmers](https://vimeo.com/41968528)
+
+
+---
 
 
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
 * A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs. This hits pretty close to home.
-
-
-### [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
-* A blog post by [Michael Neilsen](http://michaelnielsen.org).
-* There's [this](http://cognitivemedium.com/magic_paper/index.html) follow-up post too.
 
 
 ### Deutsch limit
@@ -37,11 +48,6 @@
 
 ### [Magic Paper](http://cognitivemedium.com/magic_paper/)
 * Notes by [Michael Nielsen](https://twitter.com/michael_nielsen)
-
-
-### Stéphane Conversy
-* Paper: [A visual perception account of programming languages : finding the natural science in the art](https://hal.inria.fr/hal-00737414)
-* Paper: [Unifying Textual and Visual: A Theoretical Account of the Visual Perception of Programming Languages](https://dl.acm.org/citation.cfm?id=2661138)
 
 
 ### [Stop Drawing Dead Fish](https://vimeo.com/64895205)
