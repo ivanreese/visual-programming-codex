@@ -74,6 +74,10 @@
 * A new SmallTalk/HyperCard-like tool
 
 
+### [Genesis](https://github.com/rff255/Genesis)
+* IDE for modeling and simulation of Cellular Automata
+
+
 ### [Glance](https://github.com/rgleichman/glance)
 * A visual Haskell
 * This language has a particularly neat rendering style. I recommend taking a look at [Advantages of Glance](https://github.com/rgleichman/glance/wiki/Advantages-of-Glance) for examples.
