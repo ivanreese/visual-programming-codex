@@ -85,7 +85,7 @@
 
 
 ### Hopscotch
-* [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_%28programming_language%29)
+* [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
 
 
 ### LabVIEW
