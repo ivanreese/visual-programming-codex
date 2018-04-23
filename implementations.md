@@ -137,6 +137,10 @@
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
 
 
+### [SwiftVPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
+* "node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch"
+
+
 ### ThoughtTalk
 * A prototype for directly manipulating abstractions by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
 * [Demo Video](https://www.youtube.com/watch?v=e6ZyswW_0oo)
