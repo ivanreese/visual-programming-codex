@@ -7,6 +7,12 @@
 * A hybrid graphics editor and programming environment for creating interactive diagrams, created by by [Toby Schachman](https://twitter.com/tobiaschneider).
 
 
+### [Aseba](https://github.com/aseba-community/aseba)
+* "a set of tools which allow novices to program robots easily and efficiently"
+* [Aseba's VPL](https://www.thymio.org/en:visualprogramming)
+* Paper: [Visual Programming Language for Thymio II Robot](http://stephane.magnenat.net/publications/Visual%20Programming%20Language%20for%20Thymio%20II%20Robot%20-%20IDC%20-%202014.pdf)
+
+
 ### [Blender](https://www.blender.org/)
 * Blender is an open-source 3D animation program with several visual programming tools.
 * The [node editor](https://docs.blender.org/manual/en/dev/editors/node_editor/introduction.html) allows you to create materials (shaders), texture maps, and compositing flows. They're also used for [rendering](https://docs.blender.org/manual/en/dev/render/cycles/nodes/introduction.html). These tools use the very familiar nodes-and-wires patching approach.
