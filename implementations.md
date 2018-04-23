@@ -169,6 +169,11 @@
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
 
 
+### [Snap!](https://snap.berkeley.edu)
+* A [Scratch](#scratch)-inspired block-snapping VPL with first-class procedures, lists, objects, and continuations.
+* "a broadly inviting programming language for kids and adults that’s also a platform for serious study of computer science"
+
+
 ### [Skov](http://skov.software/en/)
 * A rather neat-looking VPL, vaguely reminiscent of [Scratch](#scratch) (ie. not a patch-based VPL). Very tree-centric. Based on [Factor](https://github.com/factor/factor/).
 * [Github](https://github.com/nicolas-p/skov)
