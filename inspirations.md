@@ -1,3 +1,9 @@
+* [Esolangs.org](http://esolangs.org)
+    * [List of Ideas: Game](http://esolangs.org/wiki/List_of_ideas#Game)
+
+---
+
+
 ### [Let's Play: Ancient Greek Geometry](https://sciencevsmagic.net/geo/)
 * A game about building complex geometric primitives using only points, straight lines between points, and circles around points. Intersections create new points.
 * In other words, a game of [Greek geometric algebra](https://en.wikipedia.org/wiki/History_of_algebra#Greek_geometric_algebra) — a form of algebra done entirely with the point/line/circle primitives (and extensions to higher dimensions), which is capable of producing sums, differences, exponents, roots, and more.
