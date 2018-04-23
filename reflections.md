@@ -48,6 +48,14 @@
 * Discussed on HN [here](https://news.ycombinator.com/item?id=16624724) and [here](https://news.ycombinator.com/item?id=14290909)
 
 
+### [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html) by [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha)
+* A blog post about literate programming that turns into a demo of the Ampleforth live-coding environment for [Newspeak](https://en.wikipedia.org/wiki/Newspeak_(programming_language)). Hint: the browser back button can be used to navigate "back" when interacting with the embedded Ampleforth editors.
+* "The ability to change the code of the system you are using while using it is a key property that is lacking in most systems."
+* Not directly about VPLs, but relevant due to the importance of live coding to most VPLs, and the mutual influence of Smalltalk.
+* "It's a self-eating-dog-eat-self-eating dog world"
+* Don't confuse the HopscotchIDE used by Ampleforth with the Scratch-like VPL named [Hopscotch](implementations.md#hopscotch).
+
+
 ### [Magic Paper](http://cognitivemedium.com/magic_paper/)
 * Notes by [Michael Nielsen](https://twitter.com/michael_nielsen)
 
