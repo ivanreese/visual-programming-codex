@@ -1,5 +1,7 @@
 ### Wikipedia
-* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes an extensive list of VPLs organized by category.
+* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes a great list of VPLs.
+* [Category: Visual programming languages](https://en.wikipedia.org/wiki/Category:Visual_programming_languages) lists all the Wikipedia articles in the VPL category.
+* Also helpful, the [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type). I recommend searching for languages you're interested in, seeing what sections they appear within, then looking at other languages in those sections.
 * [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
 
 
