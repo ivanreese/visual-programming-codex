@@ -22,6 +22,10 @@
 * A bit like [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
 
 
+### [Mini Metro](http://dinopoloclub.com/minimetro/)
+* A minimalist game where you build a rail transit system. Not related to programming per se, but visually very similar to many patcher-style VPLs. The design language should be of interest to anyone working on patcher VPLs — and besides, it's a [good game](http://www.metacritic.com/game/ios/mini-metro) with [good music](http://designingsound.org/2016/02/18/the-programmed-music-of-mini-metro-interview-with-rich-vreeland-disasterpeace/).
+
+
 ### SpaceChem
 * [Wikipedia](https://en.wikipedia.org/wiki/SpaceChem)
 * Has been used in academia to teach concepts related to programming and chemistry.
