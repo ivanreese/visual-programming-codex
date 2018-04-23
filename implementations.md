@@ -88,6 +88,11 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/LabVIEW)
 
 
+### [Lire](https://github.com/honix/Lire)
+* "Lire is a Lisp expressions visual editor, it allows you to write programs using kind of abstract syntax tree (AST). It runs on top of Common Lisp."
+* The layout of nodes is quite distinct — it feels more like a transit map (or [Mini Metro](inspirations.md#mini-metro)) than most patcher VPLs.
+
+
 ### [Litegraph.js](https://github.com/jagenjo/litegraph.js)
 * "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
 * Handy list of [projects using Litegraph](https://github.com/jagenjo/litegraph.js#projects-using-it)
@@ -191,6 +196,10 @@
 
 
 ### [WoofJS](http://woofjs.com/teach.html)
+
+
+### [XOD](https://xod.io)
+* A vertical patcher VPL for microcontrollers, with a nice looking grid structure (rows with gutters)
 
 
 ---
