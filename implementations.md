@@ -76,6 +76,11 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/LabVIEW)
 
 
+### [Litegraph.js](https://github.com/jagenjo/litegraph.js)
+* "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
+* Handy list of [projects using Litegraph](https://github.com/jagenjo/litegraph.js#projects-using-it)
+
+
 ### [Luna](http://www.luna-lang.org)
 * A new VPL with a simultaneous textual/visual view of the program.
 * Subreddit: [LunaLang](https://www.reddit.com/r/LunaLang/)
@@ -143,6 +148,11 @@
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
 
 
+### [Skov](http://skov.software/en/)
+* A rather neat-looking VPL, vaguely reminiscent of [Scratch](#scratch) (ie. not a patch-based VPL). Very tree-centric. Based on [Factor](https://github.com/factor/factor/).
+* [Github](https://github.com/nicolas-p/skov)
+
+
 ### [SwiftVPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
 * "node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch"
 
@@ -161,6 +171,11 @@
 
 
 ### [Unison](http://unisonweb.org)
+
+
+### [vvvv](https://vvvv.org)
+* A hybrid visual/textual live-programming environment. "It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously."
+* [Wikipedia](https://en.wikipedia.org/wiki/Vvvv)
 
 
 ### [WoofJS](http://woofjs.com/teach.html)
