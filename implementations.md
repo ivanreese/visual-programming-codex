@@ -203,6 +203,11 @@
 ### [Unison](http://unisonweb.org)
 
 
+### [Vuo](https://vuo.org)
+* A high-performance patcher VPL for live VJ-ing, similar to [vvvv](#vvvv), Processing, and [Max](#max-msp).
+* Here's an interesting page: [How does Vuo compare to other creative coding environments?](https://vuo.org/compare/building) (Be sure to flip through the various tabs)
+
+
 ### [vvvv](https://vvvv.org)
 * A hybrid visual/textual live-programming environment. "It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously."
 * [Wikipedia](https://en.wikipedia.org/wiki/Vvvv)
