@@ -121,6 +121,10 @@
 * Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software.
 
 
+### [Node-RED](https://nodered.org)
+* "A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
+
+
 ### [NoFlo](https://noflojs.org)
 * A flow-based programming environment for JavaScript, targeting the web and Node.js.
 
