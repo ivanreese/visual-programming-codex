@@ -102,6 +102,11 @@
 * [Video demo](https://www.youtube.com/watch?v=5JzaEUJ7IbE) — "PAD3D was a very early (about 1993) zoomable user interface implemented on an SGI in Lisp using accelerated 3D graphics.  This demo shows zooming, authoring, text, images, dynamic fisheye of source code, live visual bookmarks, and a nested zooming file browser."
 
 
+### [Piet](http://www.dangermouse.net/esoteric/piet.html)
+* "Piet is a programming language in which programs look like abstract paintings."
+* [Example programs](http://www.dangermouse.net/esoteric/piet/samples.html)
+
+
 ### [PraxisLive](https://www.praxislive.org)
 * A visual IDE for creative coding, focussing on realtime audio and video (OpenGL).
 * On [Twitter](https://twitter.com/PraxisLIVE)
@@ -160,5 +165,6 @@
 * [Befunge](http://catseye.tc/article/Languages.md#befunge-93)
     * [Wikipedia](https://en.wikipedia.org/wiki/Befunge): "Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid."
     * [GIF](https://twitter.com/algoritmic/status/988137596638425089) of Befunge code being interpreted
+
 
 * [Cvlemar](http://esolangs.org/wiki/Cvlemar) — "A program is a map of lines connected to nodes. It does steps by sending each input node to all lines from that node, and sends output to the output nodes. If more than one number sending to a output node, all are added together."
