@@ -28,6 +28,12 @@
   * [HN Discussion](https://news.ycombinator.com/item?id=15681379)
 
 
+### [Chain](https://github.com/mimorisuzuko/chain)
+* "A New Visual Programming Environment to Build JavaScript By Linking Blocks."
+* Not particularly interesting on its own, but [Cochain](https://github.com/mimorisuzuko/chain/tree/feature/co) is cute.
+    * When I first read the word "coedit" I thought they meant the [dual](https://en.wikipedia.org/wiki/Dual_(category_theory)) of "edit" and got *very* excited, wondering what that could mean. Alas. Exercise for the reader! (Let me know what you come up with)
+
+
 ### Cornell Program Synthesizer
 * Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755) — "Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool."
 
