@@ -119,6 +119,7 @@
 ### [Meemoo](https://meemoo.org)
 * A web-based tool for building interactive audio/visual projects, created by [Forrest Oliphant](https://www.forresto.com)
 * Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software.
+* [Paper](https://meemoo.org/files/ForrestOliphant-MeemooThesis-web.pdf)
 
 
 ### [Node-RED](https://nodered.org)
