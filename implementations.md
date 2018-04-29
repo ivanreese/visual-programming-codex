@@ -222,6 +222,11 @@
 * A vertical patcher VPL for microcontrollers, with a nice looking grid structure (rows with gutters)
 
 
+### [Zells](http://zells.org)
+* by [Nikolas Martens](http://rtens.org)
+* Prototype 5 [demo video](https://www.youtube.com/watch?v=T0fLZ8XceLo): A spatial VPL that uses omnidirectional pulses to convey data and drive execution.
+
+
 ---
 
 
