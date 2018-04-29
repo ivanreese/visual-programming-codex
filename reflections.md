@@ -27,6 +27,12 @@
 * Paper: [Unifying Textual and Visual: A Theoretical Account of the Visual Perception of Programming Languages](https://dl.acm.org/citation.cfm?id=2661138)
 
 
+### by [Steve Krouse](http://futureofcoding.org)
+* Essay: [A Visual History of Eve: 2014-2018](http://futureofcoding.org/essays/eve/)
+  * [HN Discussion](https://news.ycombinator.com/item?id=16736913)
+* Blog post: [Types are shapes — a graphical programming exploration](https://medium.com/@stevekrouse/types-are-shapes-d6af1e83192f)
+
+
 ### by [Toby Schachman](https://twitter.com/tobiaschneider)
 * Talk: [Alternative Programming Interfaces for Alternative Programmers](https://vimeo.com/41968528)
 
@@ -71,10 +77,6 @@
 
 ### Statecharts
 * Slides: [Are statecharts the next big UI paradigm?](https://news.ycombinator.com/item?id=15835005)
-
-
-### [Types are shapes — a graphical programming exploration](https://medium.com/@stevekrouse/types-are-shapes-d6af1e83192f)
-* A blog post by [Steve Krouse](http://futureofcoding.org)
 
 
 ### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
