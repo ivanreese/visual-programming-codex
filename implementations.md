@@ -5,6 +5,7 @@
 
 ### [Apparatus](http://aprt.us)
 * A hybrid graphics editor and programming environment for creating interactive diagrams, created by by [Toby Schachman](https://twitter.com/tobiaschneider).
+* [Strange Loop Talk](https://www.youtube.com/watch?v=i3Xack9ufYk)
 
 
 ### [Aseba](https://github.com/aseba-community/aseba)
