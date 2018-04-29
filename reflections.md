@@ -8,6 +8,10 @@
 ---
 
 
+### by [Jason Brennan](http://whynotfireworks.com)
+* Blog post: [Programming with Comics](http://whynotfireworks.com/programming-with-comics/)
+
+
 ### by [Michael Neilsen](http://michaelnielsen.org).
 * Blog post: [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
     * [Follow-up](http://cognitivemedium.com/magic_paper/index.html)
