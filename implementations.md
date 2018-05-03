@@ -89,6 +89,10 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
 
 
+### [Joy.js](http://ncase.me/joy/demo/turtle/) by [Nicky Case](https://twitter.com/ncasenmare)
+* A live programming environment with *excellent* use of visual interactivity. For example, by gradually moving your mouse down the number bullets that mark each (imperative) step of the program, you see that step's execution gradually take place.
+
+
 ### LabVIEW
 * [Wikipedia](https://en.wikipedia.org/wiki/LabVIEW)
 
