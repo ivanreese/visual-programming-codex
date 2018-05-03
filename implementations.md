@@ -103,6 +103,10 @@
 * Handy list of [projects using Litegraph](https://github.com/jagenjo/litegraph.js#projects-using-it)
 
 
+### [Lobe](https://lobe.ai)
+* A visual tool for training ML models.
+
+
 ### [Luna](http://www.luna-lang.org)
 * A new VPL with a simultaneous textual/visual view of the program.
 * Subreddit: [LunaLang](https://www.reddit.com/r/LunaLang/)
