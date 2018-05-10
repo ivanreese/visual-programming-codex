@@ -168,6 +168,10 @@
 * A tool from Apple for creating animations and prototypes, leveraging technologies in macOS like CoreImage.
 
 
+### [Retrobatch](https://flyingmeat.com/retrobatch/)
+* A node-based batch image processor
+
+
 ### [SchemeBricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
 * by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
 
