@@ -85,6 +85,10 @@
 * [Related Work](https://github.com/rgleichman/glance/wiki/Related-work) — Includes other visual Haskells, other functional VPLs, editors, and assorted papers/resources.
 
 
+### [Grasshopper](http://www.grasshopper3d.com)
+* A VPL for procedural modelling in Rhino
+
+
 ### Hopscotch
 * [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
 
