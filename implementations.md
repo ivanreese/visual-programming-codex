@@ -139,6 +139,10 @@
 * "A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
 
 
+### [NodeBox](https://www.nodebox.net)
+* A dataflow environment created by the [Experimental Media Research Group](https://www.emrg.be) for datavis, generative design, and animations.
+
+
 ### [NoFlo](https://noflojs.org)
 * A flow-based programming environment for JavaScript, targeting the web and Node.js.
 
