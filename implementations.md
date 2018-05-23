@@ -93,6 +93,12 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
 
 
+### [Interstate](http://interstate.from.so)
+* A language+environment designed to show interactive behaviour with more clarity, using state machines and constraints.
+* Includes: A live updating preview of the running program, a table view with current variable values, a schematic-like view of the state machine with animated transitions and current state highlighting, and highlighting of related elements across representations.
+* [Demo Video](https://www.youtube.com/watch?v=M--9jsuDZis)
+
+
 ### [Joy.js](http://ncase.me/joy/demo/turtle/) by [Nicky Case](https://twitter.com/ncasenmare)
 * A live programming environment with *excellent* use of visual interactivity. For example, by gradually moving your mouse down the number bullets that mark each (imperative) step of the program, you see that step's execution gradually take place.
 
