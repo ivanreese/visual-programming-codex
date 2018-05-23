@@ -67,7 +67,7 @@
 
 
 ### [Dynamicland](http://dynamicland.org)
-* Programing wrested away from the screen, rendered into that most immersive and expressive medium, the tangible world.
+* Programing wrested away from the screen, rendered into that most immersive and expressive medium: the physical world.
 
 
 ### Fabrik
