@@ -161,6 +161,15 @@
 * [Example programs](http://www.dangermouse.net/esoteric/piet/samples.html)
 
 
+### PIM — Programming In the Model
+* Research project by Myriam Maleki
+* A visual scripting interface for parametric CAD
+* Echoes some of the ideas in Bret Victor's Learnable Programming and Drawing Dynamic Visualizations
+* [Demo View](https://www.youtube.com/watch?v=U59Lr7WvEOo) (seemingly contains no sound — bummer)
+* [Overview](http://papers.cumincad.org/data/works/att/acadia13_191.content.pdf)
+* [Paper](http://clab.iat.sfu.ca/pubs/Maleki-PIM-DIS.pdf)
+
+
 ### [PraxisLive](https://www.praxislive.org)
 * A visual IDE for creative coding, focussing on realtime audio and video (OpenGL).
 * On [Twitter](https://twitter.com/PraxisLIVE)
@@ -191,6 +200,8 @@
 
 
 ### Sketchpad
+* One of the first GUIs ever, created by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963.
+* [Wikipedia](https://en.wikipedia.org/wiki/Sketchpad)
 * [HN Discussion](https://news.ycombinator.com/item?id=8912137)
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
 
