@@ -167,6 +167,11 @@
 * [Video demo](https://www.youtube.com/watch?v=5JzaEUJ7IbE) — "PAD3D was a very early (about 1993) zoomable user interface implemented on an SGI in Lisp using accelerated 3D graphics.  This demo shows zooming, authoring, text, images, dynamic fisheye of source code, live visual bookmarks, and a nested zooming file browser."
 
 
+### [Parabola](https://parabola.io)
+* A simple VPL for automating tasks, similar to IFTTT.
+* [HN Discussion](https://news.ycombinator.com/item?id=17147272)
+
+
 ### [Piet](http://www.dangermouse.net/esoteric/piet.html)
 * "Piet is a programming language in which programs look like abstract paintings."
 * [Example programs](http://www.dangermouse.net/esoteric/piet/samples.html)
