@@ -172,6 +172,11 @@
 * [HN Discussion](https://news.ycombinator.com/item?id=17147272)
 
 
+### [Patternodes](https://www.lostminds.com/patternodes2/)
+* A nice-looking VPL for creating repeating pattern graphics
+* Includes features for creating animated patterns
+
+
 ### [Piet](http://www.dangermouse.net/esoteric/piet.html)
 * "Piet is a programming language in which programs look like abstract paintings."
 * [Example programs](http://www.dangermouse.net/esoteric/piet/samples.html)
