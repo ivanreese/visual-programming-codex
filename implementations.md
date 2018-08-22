@@ -49,6 +49,7 @@
 ### Collide
 * A prototype browser-based nodes-and-lines VPL presented in the talk [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs) by [Jonas Gebhardt](https://twitter.com/jonasgebhardt).
 * At [15:03](https://youtu.be/WjJdaDXN5Vs?t=15m3s), there's a nice UI feature where static typing is used to annotate node inputs/outputs, and they're numbered based on distance, so you can type the number and make a fast connection.
+* Later in the talk is some nice discussion of how the VPL is implemented in terms of pure functions, how side effects are handled, specs for nodes, and other thoughtful inner workings.
 
 
 ### Cornell Program Synthesizer
