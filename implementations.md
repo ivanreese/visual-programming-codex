@@ -243,6 +243,10 @@
 * [Github](https://github.com/nicolas-p/skov)
 
 
+### [Softimage ICE](https://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment)
+* A node-based VPL for scripting Softimage. Useful for procedural modelling, deformation, rigging, particle simulation, animation, etc.
+
+
 ### [SwiftVPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
 * "node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch"
 
