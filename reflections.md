@@ -81,3 +81,7 @@
 
 ### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
 * A gallery assembled by [Eric Hosick](https://twitter.com/erichosick)
+
+
+### [Whoa, pictures! A visual history of visual programming languages!](https://www.youtube.com/watch?v=mU1aPvvQbqk)
+* A talk by [Emily Nakashima](https://twitter.com/eanakashima) quickly surveying some of history's more interesting VPLs, with fun commentary and a nod the handful of studied benefits and downsides.
