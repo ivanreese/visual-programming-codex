@@ -7,6 +7,11 @@
 
 ---
 
+### by [Emily Nakashima](https://twitter.com/eanakashima)
+* Talk: [Whoa, pictures! A visual history of visual programming languages!](https://www.youtube.com/watch?v=mU1aPvvQbqk)
+    * Quickly surveys some of history's more interesting VPLs, with fun commentary and a nod the handful of studied benefits and downsides.
+    * [Slides](https://www.slideshare.net/eanakashima/whoa-pictures-a-visual-history-of-visual-programming-languages-con-2018) and [references](https://gist.github.com/eanakashima/7d2d06811dfb9e00836428a9a55abf33)
+
 
 ### by [Jason Brennan](http://whynotfireworks.com)
 * Blog post: [Programming with Comics](http://whynotfireworks.com/programming-with-comics/)
@@ -81,7 +86,3 @@
 
 ### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
 * A gallery assembled by [Eric Hosick](https://twitter.com/erichosick)
-
-
-### [Whoa, pictures! A visual history of visual programming languages!](https://www.youtube.com/watch?v=mU1aPvvQbqk)
-* A talk by [Emily Nakashima](https://twitter.com/eanakashima) quickly surveying some of history's more interesting VPLs, with fun commentary and a nod the handful of studied benefits and downsides.
