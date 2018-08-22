@@ -46,6 +46,11 @@
 * Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 
+### Collide
+* A prototype browser-based nodes-and-lines VPL presented in the talk [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs) by [Jonas Gebhardt](https://twitter.com/jonasgebhardt).
+* At [15:03](https://youtu.be/WjJdaDXN5Vs?t=15m3s), there's a nice UI feature where static typing is used to annotate node inputs/outputs, and they're numbered based on distance, so you can type the number and make a fast connection.
+
+
 ### Cornell Program Synthesizer
 * Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755) — "Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool."
 
