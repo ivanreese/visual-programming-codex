@@ -260,6 +260,10 @@
 * A game engine that includes some VPL editor tools: A [shader editor](http://tombstoneengine.com/wiki/index.php?title=Shader_Editor) and [script editor](http://tombstoneengine.com/wiki/index.php?title=Script_Editor).
 
 
+### [TouchDesigner](http://derivative.ca)
+* Features a node-based programming environment (mainly for multimedia) that is extendable/interoperable with Python
+
+
 ### [UAV Toolkit](https://fo.am/uav-toolkit/)
 * by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
 
