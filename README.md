@@ -6,6 +6,6 @@ Despite the GUI going mainstream in the 80s, the programming community has large
 1. [Inspirations](inspirations.md) — Visual systems for things that only loosely resemble programming.
 1. [Reflections](reflections.md) — Talks, articles, papers, and links broadly about non-textual programming.
 
-This is a work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's small right now, but will grow and gain structure and substance with time. If you know of anything that could or should be added, please open an issue.
+This is a work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's small right now, but will grow and gain structure and substance with time. If you know of anything that could or should be added, please do open an issue or pull request.
 
 If you'd like to discuss visual programming, [DM me on Twitter](https://twitter.com/spiralganglion) or [scroll down to the contact section](http://spiralganglion.com) on my website.
