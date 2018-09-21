@@ -167,6 +167,7 @@
 ### [Origami](https://origami.design)
 * A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
 * Used to prototype the UI/UX of their Paper app.
+* [Impressions: I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings.](impressions/origami)
 
 
 ### PA3D

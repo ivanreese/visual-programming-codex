@@ -1,0 +1,17 @@
+### Impressions: Origami
+
+After playing with Origami for a few hours, going through the tutorials, I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings.
+
+The visual aesthetic of the nodes is quite simple and modern, with nice affordances like clickable checkboxes and editable number fields right in the nodes. It's easy to grab an output port and drag a connections to an input port. When ports are connected, you can navigate them using the arrow keys, which I love.
+
+There aren't very many tools for working with the nodes themselves, just simple snap-to-grid movement and deletion, though zooming in the patcher interface is continuous and looked quite good. Connection lines have even fewer tools — creation, selection, and deletion. For complex routing, you'll want to use "Wireless" send/receive nodes. Creating a new node with an existing connection line selected would splice the new node into the connection, which is a nice touch, but there is seemingly no way to splice an existing node.
+
+Origami lets you fan-out connections from a node output to multiple inputs on other nodes, but not the reverse. To fan-in, you need to express the logic explicitly by creating (eg) OR or AND nodes. This is slightly cumbersome, and I'd have preferred an implicit OR or some other operation to make fan-in work, though that might not be intuitive enough when working with more complex data types like JSON, beziers, or Vec4s. Wireless connections also fan-out, and don't fan-in. Origami will preserve input connections when duplicating a node which, thanks to fan-out and the lack of connection routing options, gets pretty messy pretty quickly.
+
+The use of names in the patcher interface is nice, and avoids a lot of "mystery meat UI" that other VPLs suffer from. Some nodes like OR and AND are variadic, allowing you to pick how many input ports you wanted.
+
+I was really frustrated by the lack of GUI widgets for viewing / manipulating values in the patcher. I couldn't find anything like the sliders or number boxes in Max/Pd, making it really difficult to build up sophisticated calculations. It seems like the nodes are only able to be rendered as simple lists of inputs and outputs with simple value fields at each input/output, though I didn't try all the nodes to see if some of them had richer control surfaces. Also, manipulating an input value field breaks any connection at that port — again, frustrating.
+
+There are a few odd interactions that feel like bugs. For example, if you click a boolean input checkbox and thus break a connection at that port, you need to first undo the click (triggering any results that might be tied to the state of that checkbox), then undo again to get the connection back. Another happens when dragging a node, then pushing the option key while dragging, which drops a duplicate of the node at that spot — releasing option doesn't remove the duplicate.
+
+Origami looks quite polished from the outside, but after spending some time playing with it that sense of polish disappears. It feels like a prototype rather than a fully realized product. There's a weird mix of power (the variety of value types, the nice features for animations and state machines) and restriction (no ability to create new kinds of interaction within the patcher). You're certainly able to make some interesting things with Origami, but it definitely isn't the most powerful or pleasing VPL on the block.
