@@ -233,6 +233,11 @@
 * [Scratch 3.0](https://llk.github.io/scratch-gui/), which runs in the browser
 
 
+### [Shadershop](http://tobyschachman.com/Shadershop/)
+* "Shadershop is an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer’s spatial reasoning the way that coding today leverages the programmer’s symbolic reasoning."
+* By Toby Schachman
+
+
 ### Sketchpad
 * One of the first GUIs ever, created by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963.
 * [Wikipedia](https://en.wikipedia.org/wiki/Sketchpad)
@@ -276,6 +281,10 @@
 
 
 ### [Unison](http://unisonweb.org)
+
+
+### [Vogo](http://mgrf.de/vogo/)
+* Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
 
 
 ### [Vuo](https://vuo.org)
