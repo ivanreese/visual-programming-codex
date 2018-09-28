@@ -219,6 +219,12 @@
 * A tool from Apple for creating animations and prototypes, leveraging technologies in macOS like CoreImage.
 
 
+### [Recursive Drawing](http://recursivedrawing.com)
+* "an exploration of user interface ideas towards the development of a spatially-oriented programming environment."
+* by Toby Schachman
+* Reflected on [here](reflections.md#by-toby-schachman)
+
+
 ### [Retrobatch](https://flyingmeat.com/retrobatch/)
 * A node-based batch image processor
 

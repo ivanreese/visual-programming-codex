@@ -40,6 +40,7 @@
 
 ### by [Toby Schachman](https://twitter.com/tobiaschneider)
 * Talk: [Alternative Programming Interfaces for Alternative Programmers](https://vimeo.com/41968528)
+  * Led to the [Recursive Drawing](implementations.md#recursive-drawing) project.
 
 
 ---
