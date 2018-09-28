@@ -41,6 +41,11 @@
     * When I first read the word "coedit" I thought they meant the [dual](https://en.wikipedia.org/wiki/Dual_(category_theory)) of "edit" and got *very* excited, wondering what that could mean. Alas. Exercise for the reader! (Let me know what you come up with)
 
 
+### [Charticulator](https://charticulator.com)
+* "Interactive Construction of Bespoke Chart Layouts"
+* A project from Microsoft research for building data visualizations using direct manipulation of graphics, very similar to (and presumably inspired by) Bret Victor's [Drawing Dynamic Visualizations](reflections.md#drawing-dynamic-visualizations)
+
+
 ### [CodeFlow](http://codeflow.co)
 * A VPL editor that appears to be geared toward building NodeJS server apps.
 * Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
