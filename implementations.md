@@ -167,6 +167,7 @@
 
 ### [NoFlo](https://noflojs.org)
 * A flow-based programming environment for JavaScript, targeting the web and Node.js.
+* Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo/noflo-ui)
 
 
 ### [Origami](https://origami.design)
