@@ -95,6 +95,10 @@
 * IDE for modeling and simulation of Cellular Automata
 
 
+### [Github Actions](https://github.com/features/actions)
+* A tool for configuring workflows triggered by Github repo events.
+
+
 ### [Glance](https://github.com/rgleichman/glance)
 * A visual Haskell
 * This language has a particularly neat rendering style. I recommend taking a look at [Advantages of Glance](https://github.com/rgleichman/glance/wiki/Advantages-of-Glance) for examples.
