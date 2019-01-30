@@ -47,7 +47,12 @@
 
 
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
-* A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs. This hits pretty close to home.
+* A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs.
+
+### [Scripts of Another Dimension](https://scriptsofanotherdimension.tumblr.com)
+* Another Tumblr with VPL messes.
+
+---
 
 
 ### Deutsch limit
