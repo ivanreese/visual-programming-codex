@@ -174,6 +174,10 @@
 * Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo/noflo-ui)
 
 
+### [OpenPonk](https://modeling-languages.com/openponk-metamodeling-platform/)
+* A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk dialect), used to experiment with the creation of modelling tools.
+
+
 ### [Origami](https://origami.design)
 * A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
 * Used to prototype the UI/UX of their Paper app.
