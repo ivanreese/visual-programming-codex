@@ -225,6 +225,11 @@
 * Reflected on [here](reflections.md#by-toby-schachman)
 
 
+### [Rete](https://github.com/retejs/rete)
+* Allows you to create node-based editors in the browser.
+* "You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code."
+* This project seems pretty rough, but it's surprisingly popular. There might be something to it that wasn't immediately obvious to me in my initial quick kick of the tires.
+
 ### [Retrobatch](https://flyingmeat.com/retrobatch/)
 * A node-based batch image processor
 
