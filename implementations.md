@@ -102,7 +102,6 @@
 ### [Glance](https://github.com/rgleichman/glance)
 * A visual Haskell
 * This language has a particularly neat rendering style. I recommend taking a look at [Advantages of Glance](https://github.com/rgleichman/glance/wiki/Advantages-of-Glance) for examples.
-* [Related Work](https://github.com/rgleichman/glance/wiki/Related-work) — Includes other visual Haskells, other functional VPLs, editors, and assorted papers/resources.
 
 
 ### [Grasshopper](http://www.grasshopper3d.com)
