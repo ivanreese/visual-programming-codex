@@ -1,19 +1,37 @@
 ## By Author
 
 
+### by [Bret Victor](http://worrydream.com) [[Twitter](https://twitter.com/worrydream)]
+  * [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
+    * Shares an idea for a direct-manipulation programming environment.
+    * [Additional notes](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/)
+  * [Stop Drawing Dead Fish](https://vimeo.com/64895205)
+    * A talk by [Bret Victor]() in which he demonstrates a prototype iPad app for interactively building animations, with an experience more akin to puppet theatre than traditional keyframe-and-curves computer animation.
+    * The app allows building algebraic relationships using geometric equivalents, a la Tristan Needham's book [Visual Complex Analysis](http://usf.usfca.edu/vca/) or the [GeoGebra](https://en.wikipedia.org/wiki/GeoGebra) project. This is at odds with most computer animation tools, where dynamic relationships between visual elements are expressed using algebraic equations of the elements' numeric attributes.
+
+
 ### by [Emily Nakashima](https://twitter.com/eanakashima)
 * Talk: [Whoa, pictures! A visual history of visual programming languages!](https://www.youtube.com/watch?v=mU1aPvvQbqk)
     * Quickly surveys some of history's more interesting VPLs, with fun commentary and a nod the handful of studied benefits and downsides.
     * [Slides](https://www.slideshare.net/eanakashima/whoa-pictures-a-visual-history-of-visual-programming-languages-con-2018) and [references](https://gist.github.com/eanakashima/7d2d06811dfb9e00836428a9a55abf33)
 
 
+### by [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha)
+  * [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html)
+    * A blog post about literate programming that turns into a demo of the Ampleforth live-coding environment for [Newspeak](https://en.wikipedia.org/wiki/Newspeak_(programming_language)). Hint: the browser back button can be used to navigate "back" when interacting with the embedded Ampleforth editors.
+    * "The ability to change the code of the system you are using while using it is a key property that is lacking in most systems."
+    * Not directly about VPLs, but relevant due to the importance of live coding to most VPLs, and the mutual influence of Smalltalk.
+    * "It's a self-eating-dog-eat-self-eating dog world"
+    * Don't confuse the HopscotchIDE used by Ampleforth with the Scratch-like VPL named [Hopscotch](implementations.md#hopscotch).
+
+
 ### by [Jason Brennan](http://whynotfireworks.com)
 * Blog post: [Programming with Comics](http://whynotfireworks.com/programming-with-comics/)
 
 
-### by [Michael Neilsen](http://michaelnielsen.org).
+### by [Michael Neilsen](http://michaelnielsen.org) [[Twitter](https://twitter.com/michael_nielsen)]
 * Blog post: [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
-    * [Follow-up](http://cognitivemedium.com/magic_paper/index.html)
+    * [Follow-up](http://cognitivemedium.com/magic_paper/)
 
 
 ### by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
@@ -70,40 +88,16 @@
 ## Wikipedia
 
 
-* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes a great list of VPLs.
-* [Category: Visual programming languages](https://en.wikipedia.org/wiki/Category:Visual_programming_languages) lists all the Wikipedia articles in the VPL category.
-* Also helpful, the [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type). I recommend searching for languages you're interested in, seeing what sections they appear within, then looking at other languages in those sections.
-* [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
+### ★ [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language)
+* Includes a great list of VPLs.
 
+### [Category: Visual programming languages](https://en.wikipedia.org/wiki/Category:Visual_programming_languages)
+* Lists all the Wikipedia articles in the VPL category.
 
----
+### [Deutsch limit](https://en.wikipedia.org/wiki/Deutsch_limit)
+* The problem with visual programming is that you can’t have more than 50 visual primitives on the screen at the same time.
 
+### [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
 
-### Deutsch limit
-* ["The problem with visual programming is that you can’t have more than 50 visual primitives on the screen at the same time."](https://en.wikipedia.org/wiki/Deutsch_limit)
-
-
-### [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
-* A talk by [Bret Victor](worrydream.com) in which he shares an idea for a direct-manipulation programming environment.
-* [Additional notes](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/)
-
-
-### [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html) by [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha)
-* A blog post about literate programming that turns into a demo of the Ampleforth live-coding environment for [Newspeak](https://en.wikipedia.org/wiki/Newspeak_(programming_language)). Hint: the browser back button can be used to navigate "back" when interacting with the embedded Ampleforth editors.
-* "The ability to change the code of the system you are using while using it is a key property that is lacking in most systems."
-* Not directly about VPLs, but relevant due to the importance of live coding to most VPLs, and the mutual influence of Smalltalk.
-* "It's a self-eating-dog-eat-self-eating dog world"
-* Don't confuse the HopscotchIDE used by Ampleforth with the Scratch-like VPL named [Hopscotch](implementations.md#hopscotch).
-
-
-### [Magic Paper](http://cognitivemedium.com/magic_paper/)
-* Notes by [Michael Nielsen](https://twitter.com/michael_nielsen)
-
-
-### [Stop Drawing Dead Fish](https://vimeo.com/64895205)
-* A talk by [Bret Victor](worrydream.com) in which he demonstrates a prototype iPad app for interactively building animations, with an experience more akin to puppet theatre than traditional keyframe-and-curves computer animation.
-* The app allows building algebraic relationships using geometric equivalents, a la Tristan Needham's book [Visual Complex Analysis](http://usf.usfca.edu/vca/) or the [GeoGebra](https://en.wikipedia.org/wiki/GeoGebra) project. This is at odds with most computer animation tools, where dynamic relationships between visual elements are expressed using algebraic equations of the elements' numeric attributes.
-
-
-### Statecharts
-* Slides: [Are statecharts the next big UI paradigm?](https://news.ycombinator.com/item?id=15835005)
+### [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* I recommend searching for languages you're interested in, seeing what sections they appear within, then looking at other languages in those sections.
