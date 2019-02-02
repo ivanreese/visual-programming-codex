@@ -1,11 +1,5 @@
-### Wikipedia
-* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes a great list of VPLs.
-* [Category: Visual programming languages](https://en.wikipedia.org/wiki/Category:Visual_programming_languages) lists all the Wikipedia articles in the VPL category.
-* Also helpful, the [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type). I recommend searching for languages you're interested in, seeing what sections they appear within, then looking at other languages in those sections.
-* [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
+## By Author
 
-
----
 
 ### by [Emily Nakashima](https://twitter.com/eanakashima)
 * Talk: [Whoa, pictures! A visual history of visual programming languages!](https://www.youtube.com/watch?v=mU1aPvvQbqk)
@@ -46,11 +40,41 @@
 ---
 
 
+## Galleries
+
+
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
 * A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs.
 
+
+### [Gallery of Programmer Interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/preview?slide=id.g1da0625f1b_0_92)
+* A fantastic slide deck assembled by [Jonathan Edwards](https://twitter.com/jonathoda)
+* Discussed on HN [here](https://news.ycombinator.com/item?id=16624724) and [here](https://news.ycombinator.com/item?id=14290909)
+
+
+### [Node-Based & Visual Programming Interfaces](https://www.are.na/francis-tseng/node-based-visual-programming-interfaces)
+* Assembled by [Francis Tseng](https://twitter.com/frnsys)
+
+
 ### [Scripts of Another Dimension](https://scriptsofanotherdimension.tumblr.com)
 * Another Tumblr with VPL messes.
+
+
+### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
+* Assembled by [Eric Hosick](https://twitter.com/erichosick)
+
+
+---
+
+
+## Wikipedia
+
+
+* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language), includes a great list of VPLs.
+* [Category: Visual programming languages](https://en.wikipedia.org/wiki/Category:Visual_programming_languages) lists all the Wikipedia articles in the VPL category.
+* Also helpful, the [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type). I recommend searching for languages you're interested in, seeing what sections they appear within, then looking at other languages in those sections.
+* [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
+
 
 ---
 
@@ -62,11 +86,6 @@
 ### [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
 * A talk by [Bret Victor](worrydream.com) in which he shares an idea for a direct-manipulation programming environment.
 * [Additional notes](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/)
-
-
-### [Gallery of Programmer Interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/preview?slide=id.g1da0625f1b_0_92)
-* A slide deck assembled by [Jonathan Edwards](https://twitter.com/jonathoda)
-* Discussed on HN [here](https://news.ycombinator.com/item?id=16624724) and [here](https://news.ycombinator.com/item?id=14290909)
 
 
 ### [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html) by [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha)
@@ -88,7 +107,3 @@
 
 ### Statecharts
 * Slides: [Are statecharts the next big UI paradigm?](https://news.ycombinator.com/item?id=15835005)
-
-
-### [Visual Programming Languages — Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
-* A gallery assembled by [Eric Hosick](https://twitter.com/erichosick)
