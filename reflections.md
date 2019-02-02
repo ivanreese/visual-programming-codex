@@ -1,13 +1,19 @@
 ## By Author
 
 
-### by [Bret Victor](http://worrydream.com) [[Twitter](https://twitter.com/worrydream)]
-  * [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
+### ★ by [Bret Victor](http://worrydream.com) [[Twitter](https://twitter.com/worrydream)]
+* [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
     * Shares an idea for a direct-manipulation programming environment.
     * [Additional notes](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/)
-  * [Stop Drawing Dead Fish](https://vimeo.com/64895205)
+* [Stop Drawing Dead Fish](https://vimeo.com/64895205)
     * A talk by [Bret Victor]() in which he demonstrates a prototype iPad app for interactively building animations, with an experience more akin to puppet theatre than traditional keyframe-and-curves computer animation.
     * The app allows building algebraic relationships using geometric equivalents, a la Tristan Needham's book [Visual Complex Analysis](http://usf.usfca.edu/vca/) or the [GeoGebra](https://en.wikipedia.org/wiki/GeoGebra) project. This is at odds with most computer animation tools, where dynamic relationships between visual elements are expressed using algebraic equations of the elements' numeric attributes.
+
+
+### by [Anton Livaja](https://twitter.com/AntonLivaja)
+* Blog Post: [Why Visual Programming Doesn't Suck](https://blog.statebox.org/why-visual-programming-doesnt-suck-2c1ece2a414e)
+    * [HN Discussion](https://news.ycombinator.com/item?id=19025639)
+    * Talks about [Statebox](https://statebox.org), who have some interesting [Medium posts](https://blog.statebox.org)
 
 
 ### by [Emily Nakashima](https://twitter.com/eanakashima)
@@ -17,7 +23,7 @@
 
 
 ### by [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha)
-  * [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html)
+* [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html)
     * A blog post about literate programming that turns into a demo of the Ampleforth live-coding environment for [Newspeak](https://en.wikipedia.org/wiki/Newspeak_(programming_language)). Hint: the browser back button can be used to navigate "back" when interacting with the embedded Ampleforth editors.
     * "The ability to change the code of the system you are using while using it is a key property that is lacking in most systems."
     * Not directly about VPLs, but relevant due to the importance of live coding to most VPLs, and the mutual influence of Smalltalk.
@@ -32,6 +38,12 @@
 ### by [Michael Neilsen](http://michaelnielsen.org) [[Twitter](https://twitter.com/michael_nielsen)]
 * Blog post: [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
     * [Follow-up](http://cognitivemedium.com/magic_paper/)
+
+
+### by Paul Fishwick [Blog](https://medium.com/@metaphorz) [Twitter](https://twitter.com/PaulFishwick)
+* Paper: [Aesthetic Programming](https://www.researchgate.net/publication/2517392_Aesthetic_Programming)
+    * A fantastic paper about the synthesis of artistic aesthetics, modelling, and systems.
+    * "By marrying traditional methods for computer programming with an artistic temperament, we give birth to a new phenomenon: the aesthetic program. Our work builds on visual approaches in programming as well as modeling for software, where I envision a gradual evolution from program to model. The need for the aesthetic model is strengthened with the importance of personalized, individually-tailored, models. I, and my students, have formulated the rube Project methodology around the use of 3D web-based virtual world construction of models. Initial results suggest that these models are artistic, while containing sufficient symbolism and concise metaphoric mapping as to be executable on a computer."
 
 
 ### by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
