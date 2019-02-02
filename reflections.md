@@ -97,6 +97,14 @@
 ---
 
 
+## Assorted Papers
+
+* [Lowering the Barriers to Programming: a survey of programming environments and languages for novice programmers](https://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf) by Caitlin Kelleher and Randy Pausch
+
+
+---
+
+
 ## Wikipedia
 
 
