@@ -51,6 +51,20 @@
 * Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 
+### [Cinema 4D Xpresso](https://help.maxon.net/us/#5829)
+* A very rudimentary nodes-and-wires patcher used to generate procedural animation and rule-based particle effects.
+* Kind:
+  * Input and output port order can be drag-adjusted to cut down on crossed wires.
+  * Groups — They behave like subpatchers in that they're a cropped view into their contents, that can be panned/zoomed/collapsed from the outside, and they can be saved/loaded for reuse across projects. Execution of the grouped nodes can be toggled on and off, and this can be controlled by outside nodes.
+* Unkind:
+  * Almost zero liveness.
+  * Only one UI paradigm — no facility for custom creation of nodes, nodes as custom I/O, etc. Squint and all nodes look the same. This extends to math where each term in an expression is a node, including constants, and nodes like Add don't appear to be variadic, ugh.
+  * Wires appear to be limited to simple S-curves, with no advanced routing.
+  * "If the connection is not allowed, the wire will be deleted as soon as you release the mouse button."
+  * No feedback loops, period.
+![](assets/cinema-4d-xpresso.png)
+
+
 ### Collide
 * A prototype browser-based nodes-and-lines VPL presented in the talk [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs) by [Jonas Gebhardt](https://twitter.com/jonasgebhardt).
 * At [15:03](https://youtu.be/WjJdaDXN5Vs?t=15m3s), there's a nice UI feature where static typing is used to annotate node inputs/outputs, and they're numbered based on distance, so you can type the number and make a fast connection.
