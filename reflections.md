@@ -41,7 +41,7 @@
 * Blog post: [Programming with Comics](http://whynotfireworks.com/programming-with-comics/)
 
 
-### by [Michael Neilsen](http://michaelnielsen.org) [[Twitter](https://twitter.com/michael_nielsen)]
+### by [Michael Nielsen](http://michaelnielsen.org) [[Twitter](https://twitter.com/michael_nielsen)]
 * Blog post: [Working Notes on Chalktalk](http://cognitivemedium.com/interfaces-1/index.html)
     * [Follow-up](http://cognitivemedium.com/magic_paper/)
 
