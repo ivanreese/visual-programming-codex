@@ -51,6 +51,10 @@
 * Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 
+<hr>
+
+![](assets/cinema-4d-xpresso.png)
+
 ### [Cinema 4D Xpresso](https://help.maxon.net/us/#5829)
 * A very rudimentary nodes-and-wires patcher used to generate procedural animation and rule-based particle effects.
 * Kind:
@@ -62,7 +66,6 @@
   * Wires appear to be limited to simple S-curves, with no advanced routing.
   * "If the connection is not allowed, the wire will be deleted as soon as you release the mouse button."
   * No feedback loops, period.
-![](assets/cinema-4d-xpresso.png)
 
 
 ### Collide
