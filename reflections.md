@@ -2,12 +2,18 @@
 
 
 ### ★ by [Bret Victor](http://worrydream.com) [[Twitter](https://twitter.com/worrydream)]
-* [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
+* Talk: [Inventing on Principle](http://worrydream.com/InventingOnPrinciple)
+    * The talk that launched a thousand research careers.
+* Talk: [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
     * Shares an idea for a direct-manipulation programming environment.
     * [Additional notes](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/)
-* [Stop Drawing Dead Fish](https://vimeo.com/64895205)
+* Talk: [Stop Drawing Dead Fish](https://vimeo.com/64895205)
     * A talk by [Bret Victor]() in which he demonstrates a prototype iPad app for interactively building animations, with an experience more akin to puppet theatre than traditional keyframe-and-curves computer animation.
     * The app allows building algebraic relationships using geometric equivalents, a la Tristan Needham's book [Visual Complex Analysis](http://usf.usfca.edu/vca/) or the [GeoGebra](https://en.wikipedia.org/wiki/GeoGebra) project. This is at odds with most computer animation tools, where dynamic relationships between visual elements are expressed using algebraic equations of the elements' numeric attributes.
+* Article: [Learnable Programming](http://worrydream.com/LearnableProgramming/)
+    * Not only is this a fantastic critique of augmented text-based programming tools, it's also sneaks in some fantastic critiques of visual programming languages too.
+    > Traditional visual environments visualize the code. They visualize static structure. But that's not what we need to understand. We need to understand what the code is doing. Visualize data, not code. Dynamic behavior, not static structure.
+* I could continue linking to dozens of things on [Bret's site](http://worrydream.com). The next time I read through them, I might link to some more and add my reflections. In the mean time, it should suffice to say that pretty much everything on his website is revelatory, inspirational, worthy of mass movements being forming around, and essential. His work defined the current cultural moment in programming tools, HCI, visual languages, and other computing frontiers of interest to readers of this codex.
 
 
 ### by [Anton Livaja](https://twitter.com/AntonLivaja)
