@@ -6,7 +6,7 @@ By [Matt Keeter](http://www.mattkeeter.com)
 > A computer-aided design (CAD) tool from a parallel universe in which CAD software evolved from Lisp machines rather than drafting tables.
 
 
-<hr>
+<br><hr><br>
 
 
 ![](assets/apparatus.jpg)
@@ -19,7 +19,7 @@ A hybrid graphics editor and programming environment for creating interactive di
 * [Strange Loop Talk](https://www.youtube.com/watch?v=i3Xack9ufYk)
 
 
-<hr>
+<br><hr><br>
 
 
 ![](assets/aseba.png)
@@ -33,7 +33,7 @@ A hybrid graphics editor and programming environment for creating interactive di
 * Paper: [Visual Programming Language for Thymio II Robot](http://stephane.magnenat.net/publications/Visual%20Programming%20Language%20for%20Thymio%20II%20Robot%20-%20IDC%20-%202014.pdf)
 
 
-<hr>
+<br><hr><br>
 
 
 ![](assets/blender.jpg)
@@ -50,7 +50,7 @@ The [node editor](https://docs.blender.org/manual/en/latest/editors/node_editor/
 The [logic editor](https://docs.blender.org/manual/en/latest/editors/logic_editor.html) is used to set up game logic for Blender's built-in game engine. The interface seems like a slightly different take on patching, with a 3-step `sensor > controller > actuator` layout.
 
 
-<hr>
+<br><hr><br>
 
 ![](assets/blockly.png)
 
@@ -63,7 +63,7 @@ A JavaScript library for building Scratch-like block-based visual programming ed
 * [Wikipedia](https://en.wikipedia.org/wiki/Blockly)
 
 
-<hr>
+<br><hr><br>
 
 
 ### [Blueprint](https://docs.unrealengine.com/en-us/Engine/Blueprints)
@@ -104,7 +104,7 @@ A VPL editor that appears to be geared toward building NodeJS server apps.
 Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 
-<hr>
+<br><hr><br>
 
 ![](assets/cinema-4d-xpresso.png)
 
