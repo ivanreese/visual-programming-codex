@@ -273,6 +273,18 @@ A VPL for procedural modelling in Rhino
 <br><br><br><br>
 
 
+![](assets/ifttt.png)
+
+### [IFTTT](https://ifttt.com)
+
+A popular, basic tool for connecting and automating a handful of apps, services, and APIs. The name is short for _If This Then That_.
+
+[Wikipedia](https://en.wikipedia.org/wiki/IFTTT)
+
+
+<br><br><br><br>
+
+
 ### [Interstate](http://interstate.from.so)
 
 A language+environment designed to show interactive behaviour with more clarity, using state machines and constraints.
@@ -425,7 +437,7 @@ Used to prototype the UI/UX of their Paper app.
 
 ### [Parabola](https://parabola.io)
 
-A simple VPL for automating tasks, similar to IFTTT.
+A simple VPL for automating tasks, similar to [IFTTT](implementations.md#ifttt).
 
 [HN Discussion](https://news.ycombinator.com/item?id=17147272)
 
