@@ -111,6 +111,8 @@ A drag-and-drop tool for creating web applications. There's a visual design mode
 <br><br><br><br>
 
 
+![](assets/chain.png)
+
 # [Chain](https://github.com/mimorisuzuko/chain)
 
 > A New Visual Programming Environment to Build JavaScript By Linking Blocks.
@@ -123,6 +125,8 @@ Not particularly interesting on its own, but [Cochain](https://github.com/mimori
 <br><br><br><br>
 
 
+![](assets/charticulator.gif)
+
 # [Charticulator](https://charticulator.com)
 
 > Interactive Construction of Bespoke Chart Layouts
@@ -132,6 +136,8 @@ A project from Microsoft research for building data visualizations using direct 
 
 <br><br><br><br>
 
+
+![](assets/codeflow.png)
 
 # [CodeFlow](http://codeflow.co)
 
@@ -154,22 +160,10 @@ You can read my impressions [here](impressions/cinema-4d-xpresso).
 <br><br><br><br>
 
 
-# Collide
-
-A prototype browser-based nodes-and-lines VPL presented in the talk [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs) by [Jonas Gebhardt](https://twitter.com/jonasgebhardt).
-
-At [15:03](https://youtu.be/WjJdaDXN5Vs?t=15m3s), there's a nice UI feature where static typing is used to annotate node inputs/outputs, and they're numbered based on distance, so you can type the number and make a fast connection.
-
-Later in the talk is some nice discussion of how the VPL is implemented in terms of pure functions, how side effects are handled, specs for nodes, and other thoughtful inner workings.
-
-
-<br><br><br><br>
-
-
 # Cornell Program Synthesizer
 
-Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755)
-    > Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool.
+* Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755)
+    * > Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool.
 
 
 <br><br><br><br>
