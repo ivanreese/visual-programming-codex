@@ -10,7 +10,8 @@
 * Article: [Learnable Programming](http://worrydream.com/LearnableProgramming/)
     * Not only is this a fantastic critique of augmented text-based programming tools, it's also sneaks in some fantastic critiques of visual programming languages too.
     * > Traditional visual environments visualize the code. They visualize static structure. But that's not what we need to understand. We need to understand what the code is doing. Visualize data, not code. Dynamic behavior, not static structure.
-* I could continue linking to dozens of things on [Bret's site](http://worrydream.com). The next time I read through them, I might link to some more and add my reflections. In the mean time, it should suffice to say that pretty much everything on his website is revelatory, inspirational, worthy of mass movements being forming around, and essential. His work defined the current cultural moment in programming tools, HCI, visual languages, and other computing frontiers of interest to readers of this codex.
+
+I could continue linking to dozens of things on [Bret's site](http://worrydream.com). The next time I read through them, I might link to some more and add my reflections. In the mean time, it should suffice to say that pretty much everything on his website is revelatory, inspirational, worthy of mass movements being forming around, and essential. His work largely defined the current cultural moment in programming tools, HCI, visual languages, and other computing frontiers of interest to readers of this codex.
 
 
 <br><br><br><br>
@@ -26,7 +27,7 @@
 
 
 ## Caitlin Kelleher and Randy Pausch
-* [Lowering the Barriers to Programming: a survey of programming environments and languages for novice programmers](https://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf)
+* Paper: [Lowering the Barriers to Programming: a survey of programming environments and languages for novice programmers](https://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf)
 
 
 <br><br><br><br>
@@ -108,6 +109,15 @@
 * Essay: [A Visual History of Eve: 2014-2018](http://futureofcoding.org/essays/eve/)
   * [HN Discussion](https://news.ycombinator.com/item?id=16736913)
 * Blog post: [Types are shapes — a graphical programming exploration](https://medium.com/@stevekrouse/types-are-shapes-d6af1e83192f)
+
+
+<br><br><br><br>
+
+
+## [Tim Teitelbaum](https://en.wikipedia.org/wiki/Tim_Teitelbaum)
+Created the Cornell Program Synthesizer in 1978, an IDE-like system that showed the power of editing tools deeply knowledgable about the structure and semantics of a language. This project was captured in the paper [A Syntax-directed Programming Environment](https://dl.acm.org/citation.cfm?id=358755), co-authored with [Thomas Reps](https://en.wikipedia.org/wiki/Thomas_W._Reps).
+
+> Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool.
 
 
 <br><br><br><br>

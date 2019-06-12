@@ -160,15 +160,6 @@ You can read my impressions [here](impressions/cinema-4d-xpresso).
 <br><br><br><br>
 
 
-# Cornell Program Synthesizer
-
-* Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755)
-    * > Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool.
-
-
-<br><br><br><br>
-
-
 # [DeepUI](https://deepui.io)
 
 Inspired by [Stop Drawing Dead Fish](reflections.md#stop-drawing-dead-fish)
