@@ -408,13 +408,16 @@ A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk d
 <br><br><br><br>
 
 
+![](assets/origami.png)
+
 # [Origami](https://origami.design)
+By Facebook
 
-A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
+A prototyping tool originally built atop [Quartz Composer](#quartz-composer), but more recently rebuilt as a standalone (albeit less capable) app.
 
-Used to prototype the UI/UX of their Paper app.
+* Used to prototype the UI/UX of their Paper app.
 
-[Impressions: I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings.](impressions/origami)
+* I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings. You can read more of my impressions [here](impressions/origami).
 
 
 <br><br><br><br>

@@ -1,3 +1,7 @@
+![](assets/cinema-4d-xpresso.png)
+
+## Impressions: [Cinema 4D Xpresso](implementations.md#cinema-4d-xpresso)
+
 Like:
 
 * Input and output port order can be drag-adjusted to cut down on crossed wires.
