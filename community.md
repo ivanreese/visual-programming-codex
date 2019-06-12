@@ -1,3 +1,7 @@
+### [Future of Coding](https://futureofcoding.org)
+* A Slack community and podcast hosted by [Steve Krouse](https://twitter.com/stevekrouse), with frequent and thriving discussions of visual programming, novel editors & languages, and the half-forgotten history of our field.
+
+
 ### [Glance — Related Work](https://github.com/rgleichman/glance/wiki/Related-work)
 * Includes other visual Haskells, other functional VPLs, editors, and assorted papers/resources.
 
@@ -7,7 +11,7 @@
 
 
 ### [Mind Bicycles](https://github.com/pel-daniel/mind-bicyles)
-* A collection of projects, videos, and other assorted links
+* A meta-collection of projects, videos, and other assorted links
 
 
 ### [r/nosyntax](https://www.reddit.com/r/nosyntax)
