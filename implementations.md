@@ -79,7 +79,7 @@ A scripting system built into the Unreal Engine.
 <br><br><br><br>
 
 
-![](assets/bubble.png)
+![](assets/bubble.jpeg)
 
 ### [Bubble](https://bubble.is)
 
