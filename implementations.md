@@ -1,6 +1,6 @@
 ![](assets/antimony.png)
 
-## [Antimony](http://www.mattkeeter.com/projects/antimony/)
+# [Antimony](http://www.mattkeeter.com/projects/antimony/)
 By [Matt Keeter](http://www.mattkeeter.com)
 
 > A computer-aided design (CAD) tool from a parallel universe in which CAD software evolved from Lisp machines rather than drafting tables.
@@ -11,10 +11,10 @@ By [Matt Keeter](http://www.mattkeeter.com)
 
 ![](assets/apparatus.jpg)
 
-## [Apparatus](http://aprt.us)
+# [Apparatus](http://aprt.us)
 By [Toby Schachman](https://twitter.com/tobiaschneider)
 
-A hybrid graphics editor and programming environment for creating interactive diagrams.
+> A hybrid graphics editor and programming environment for creating interactive diagrams.
 
 * [Strange Loop Talk](https://www.youtube.com/watch?v=i3Xack9ufYk)
 
@@ -24,13 +24,27 @@ A hybrid graphics editor and programming environment for creating interactive di
 
 ![](assets/aseba.png)
 
-## [Aseba](https://github.com/aseba-community/aseba)
+# [Aseba](https://github.com/aseba-community/aseba)
 
 > A set of tools which allow novices to program robots easily and efficiently.
 
-[Aseba's VPL](https://www.thymio.org/en:visualprogramming)
-
+* While Aseba isn't a visual programming tool itself, it does [contain one](https://www.thymio.org/en:visualprogramming).
 * Paper: [Visual Programming Language for Thymio II Robot](http://stephane.magnenat.net/publications/Visual%20Programming%20Language%20for%20Thymio%20II%20Robot%20-%20IDC%20-%202014.pdf)
+
+
+<br><br><br><br>
+
+
+![](assets/befunge.png)
+
+# [Befunge](http://catseye.tc/article/Languages.md#befunge-93)
+by Chris Pressey of [Cat's Eye Technologies](https://catseye.tc)
+
+> Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid.
+
+* [GIF](https://twitter.com/algoritmic/status/988137596638425089) of Befunge code being interpreted.
+* [Esolangs](https://esolangs.org/wiki/Befunge-93)
+* [Wikipedia](https://en.wikipedia.org/wiki/Befunge)
 
 
 <br><br><br><br>
@@ -38,7 +52,7 @@ A hybrid graphics editor and programming environment for creating interactive di
 
 ![](assets/blender.jpg)
 
-## [Blender](https://www.blender.org/)
+# [Blender](https://www.blender.org/)
 Blender is an open-source 3D animation program with several visual programming tools.
 
 ![](assets/blender-node-editor.png)
@@ -55,7 +69,7 @@ The [logic editor](https://docs.blender.org/manual/en/latest/editors/logic_edito
 
 ![](assets/blockly.png)
 
-## [Blockly](https://developers.google.com/blockly/)
+# [Blockly](https://developers.google.com/blockly/)
 by Neil Fraser with Quynh Neutron, [Ellen Spertus](https://en.wikipedia.org/wiki/Ellen_Spertus), and Mark Friedman at Google.
 
 A JavaScript library for building Scratch-like block-based visual programming editors. Block code can be transpiled into JavaScript, Python, PHP, Dart, or other languages. An outgrowth of the [App Inventor](https://en.wikipedia.org/wiki/App_Inventor_for_Android) project.
@@ -69,7 +83,7 @@ A JavaScript library for building Scratch-like block-based visual programming ed
 
 ![](assets/blueprint.png)
 
-## [Blueprint](https://docs.unrealengine.com/en-us/Engine/Blueprints)
+# [Blueprint](https://docs.unrealengine.com/en-us/Engine/Blueprints)
 
 A scripting system built into the Unreal Engine.
 
@@ -81,7 +95,7 @@ A scripting system built into the Unreal Engine.
 
 ![](assets/bubble.jpeg)
 
-## [Bubble](https://bubble.is)
+# [Bubble](https://bubble.is)
 
 A drag-and-drop tool for creating web applications. There's a visual design mode that looks a bit like Keynote or iBooks Author, and a "Workflow" programming mode that seems similar to [IFTTT](#ifttt).
 
@@ -92,22 +106,21 @@ A drag-and-drop tool for creating web applications. There's a visual design mode
 <br><br><br><br>
 
 
-## [Chain](https://github.com/mimorisuzuko/chain)
+# [Chain](https://github.com/mimorisuzuko/chain)
 
-"A New Visual Programming Environment to Build JavaScript By Linking Blocks."
+> A New Visual Programming Environment to Build JavaScript By Linking Blocks.
 
 Not particularly interesting on its own, but [Cochain](https://github.com/mimorisuzuko/chain/tree/feature/co) is cute.
 
-    When I first read the word "coedit" I thought they meant the [dual](https://en.wikipedia.org/wiki/
-      Dual_(category_theory)) of "edit" and got *very* excited, wondering what that could mean. Alas. Exercise for the reader! (Let me know what you come up with)
+    When I first read the word "coedit" I thought they meant the [dual](https://en.wikipedia.org/wiki/Dual_(category_theory)) of "edit" and got *very* excited, wondering what that could mean. Alas. Exercise for the reader! (Let me know what you come up with)
 
 
 <br><br><br><br>
 
 
-## [Charticulator](https://charticulator.com)
+# [Charticulator](https://charticulator.com)
 
-"Interactive Construction of Bespoke Chart Layouts"
+> Interactive Construction of Bespoke Chart Layouts
 
 A project from Microsoft research for building data visualizations using direct manipulation of graphics, very similar to (and presumably inspired by) Bret Victor's [Drawing Dynamic Visualizations](reflections.md#drawing-dynamic-visualizations)
 
@@ -115,7 +128,7 @@ A project from Microsoft research for building data visualizations using direct 
 <br><br><br><br>
 
 
-## [CodeFlow](http://codeflow.co)
+# [CodeFlow](http://codeflow.co)
 
 A VPL editor that appears to be geared toward building NodeJS server apps.
 
@@ -126,33 +139,17 @@ Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 ![](assets/cinema-4d-xpresso.png)
 
-## [Cinema 4D Xpresso](https://help.maxon.net/us/#5829)
+# [Cinema 4D Xpresso](https://help.maxon.net/us/#5829)
 
 A rudimentary nodes-and-wires patcher used for procedural animation and rule-based particle effects in [Cinema 4D](https://en.wikipedia.org/wiki/Cinema_4D).
 
-Kind:
-
-  Input and output port order can be drag-adjusted to cut down on crossed wires.
-
-  Groups — They behave like subpatchers in that they're a cropped view into their contents, that can be panned/zoomed/collapsed from the outside, and they can be saved/loaded for reuse across projects. Execution of the grouped nodes can be toggled on and off, and this can be controlled by outside nodes.
-
-Unkind:
-
-  Almost zero liveness within the patcher interface, save for debug nodes that display the most recent value passed to them. The surrounding Cinema 4D environment live updates in response to Xpresso, and you can create sliders and other UI widgets in the attributes panel and use as IO for nodes.
-
-  Only one UI paradigm — no facility for custom creation of nodes, nodes as custom I/O, etc. Squint and all nodes look the same. This extends to math where each term in an expression is a node, including constants, and nodes like Add don't appear to be variadic, alas.
-
-  Wires appear to be limited to simple S-curves, with no advanced routing.
-
-  "If the connection is not allowed, the wire will be deleted as soon as you release the mouse button."
-
-  No feedback loops, period.
+You can read my impressions [here](impressions/cinema-4d-xpresso).
 
 
 <br><br><br><br>
 
 
-## Collide
+# Collide
 
 A prototype browser-based nodes-and-lines VPL presented in the talk [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs) by [Jonas Gebhardt](https://twitter.com/jonasgebhardt).
 
@@ -164,15 +161,16 @@ Later in the talk is some nice discussion of how the VPL is implemented in terms
 <br><br><br><br>
 
 
-## Cornell Program Synthesizer
+# Cornell Program Synthesizer
 
-Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755) — "Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool."
+Paper by Tim Teitelbaum and Thomas Reps: [The Cornell program synthesizer: a syntax-directed programming environment](https://dl.acm.org/citation.cfm?id=358755)
+    > Programs are not text; they are hierarchical compositions of computational structures and should be edited, executed, and debugged in an environment that consistently acknowledges and reinforces this viewpoint. The Cornell Program Synthesizer demands a structural perspective at all stages of program development. Its separate features are unified by a common foundation: a grammar for the programming language. Its full-screen derivation-tree editor and syntax-directed diagnostic interpreter combine to make the Synthesizer a powerful and responsive interactive programming tool.
 
 
 <br><br><br><br>
 
 
-## [DeepUI](https://deepui.io)
+# [DeepUI](https://deepui.io)
 
 Inspired by [Stop Drawing Dead Fish](reflections.md#stop-drawing-dead-fish)
 
@@ -182,15 +180,17 @@ On [Twitter](https://twitter.com/DeepUINews)
 <br><br><br><br>
 
 
-## DRAKON
+# DRAKON
 
-[Wikipedia](https://en.wikipedia.org/wiki/DRAKON): "The language provides a uniform way to represent flowcharts of any complexity that are easy to read and understand."
+> The language provides a uniform way to represent flowcharts of any complexity that are easy to read and understand.
+
+[Wikipedia](https://en.wikipedia.org/wiki/DRAKON)
 
 
 <br><br><br><br>
 
 
-## Duangle Prototypes: Noodles, Conspire
+# Duangle Prototypes: Noodles, Conspire
 
 Prototypes created by Leonard Ritter of Duangle for their game Nowhere.
 
@@ -204,7 +204,7 @@ Conspire is a Lisp-like (so non-visual, but...), designed to be extended in term
 <br><br><br><br>
 
 
-## [Dynamicland](http://dynamicland.org)
+# [Dynamicland](http://dynamicland.org)
 
 Programing wrested away from the screen, rendered into that most immersive and expressive medium: the physical world.
 
@@ -212,7 +212,7 @@ Programing wrested away from the screen, rendered into that most immersive and e
 <br><br><br><br>
 
 
-## Fabrik
+# Fabrik
 
 Built in SmallTalk by [Apple ATG](https://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group)
 
@@ -224,7 +224,7 @@ Paper: [Fabrik: A Visual Programming Environment](http://sp.cmc.msu.ru/courses/s
 <br><br><br><br>
 
 
-## [Fizzygum](http://fizzygum.org)
+# [Fizzygum](http://fizzygum.org)
 
 A new SmallTalk/HyperCard-like tool
 
@@ -232,7 +232,7 @@ A new SmallTalk/HyperCard-like tool
 <br><br><br><br>
 
 
-## [Genesis](https://github.com/rff255/Genesis)
+# [Genesis](https://github.com/rff255/Genesis)
 
 IDE for modeling and simulation of Cellular Automata
 
@@ -240,7 +240,7 @@ IDE for modeling and simulation of Cellular Automata
 <br><br><br><br>
 
 
-## [Github Actions](https://github.com/features/actions)
+# [Github Actions](https://github.com/features/actions)
 
 A tool for configuring workflows triggered by Github repo events.
 
@@ -248,7 +248,7 @@ A tool for configuring workflows triggered by Github repo events.
 <br><br><br><br>
 
 
-## [Glance](https://github.com/rgleichman/glance)
+# [Glance](https://github.com/rgleichman/glance)
 
 A visual Haskell
 
@@ -258,7 +258,7 @@ This language has a particularly neat rendering style. I recommend taking a look
 <br><br><br><br>
 
 
-## [Grasshopper](http://www.grasshopper3d.com)
+# [Grasshopper](http://www.grasshopper3d.com)
 
 A VPL for procedural modelling in Rhino
 
@@ -266,7 +266,7 @@ A VPL for procedural modelling in Rhino
 <br><br><br><br>
 
 
-## Hopscotch
+# Hopscotch
 
 [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
 
@@ -276,7 +276,7 @@ A VPL for procedural modelling in Rhino
 
 ![](assets/ifttt.png)
 
-## [IFTTT](https://ifttt.com)
+# [IFTTT](https://ifttt.com)
 
 A popular, basic tool for connecting and automating a handful of apps, services, and APIs. The name is short for _If This Then That_.
 
@@ -286,7 +286,7 @@ A popular, basic tool for connecting and automating a handful of apps, services,
 <br><br><br><br>
 
 
-## [Interstate](http://interstate.from.so)
+# [Interstate](http://interstate.from.so)
 
 A language+environment designed to show interactive behaviour with more clarity, using state machines and constraints.
 
@@ -298,7 +298,7 @@ Includes: A live updating preview of the running program, a table view with curr
 <br><br><br><br>
 
 
-## [Joy.js](http://ncase.me/joy/demo/turtle/) by [Nicky Case](https://twitter.com/ncasenmare)
+# [Joy.js](http://ncase.me/joy/demo/turtle/) by [Nicky Case](https://twitter.com/ncasenmare)
 
 A live programming environment with *excellent* use of visual interactivity. For example, by gradually moving your mouse down the number bullets that mark each (imperative) step of the program, you see that step's execution gradually take place.
 
@@ -306,7 +306,7 @@ A live programming environment with *excellent* use of visual interactivity. For
 <br><br><br><br>
 
 
-## LabVIEW
+# LabVIEW
 
 [Wikipedia](https://en.wikipedia.org/wiki/LabVIEW)
 
@@ -314,7 +314,7 @@ A live programming environment with *excellent* use of visual interactivity. For
 <br><br><br><br>
 
 
-## [Lire](https://github.com/honix/Lire)
+# [Lire](https://github.com/honix/Lire)
 
 "Lire is a Lisp expressions visual editor, it allows you to write programs using kind of abstract syntax tree (AST). It runs on top of Common Lisp."
 
@@ -324,7 +324,7 @@ The layout of nodes is quite distinct — it feels more like a transit map (or [
 <br><br><br><br>
 
 
-## [Litegraph.js](https://github.com/jagenjo/litegraph.js)
+# [Litegraph.js](https://github.com/jagenjo/litegraph.js)
 
 "A graph node engine and editor written in Javascript similar to [PD](#pure-data) or [UDK Blueprints](#blueprint), comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
 
@@ -334,7 +334,7 @@ Handy list of [projects using Litegraph](https://github.com/jagenjo/litegraph.js
 <br><br><br><br>
 
 
-## [Lobe](https://lobe.ai)
+# [Lobe](https://lobe.ai)
 
 A visual tool for training ML models.
 
@@ -342,7 +342,7 @@ A visual tool for training ML models.
 <br><br><br><br>
 
 
-## [Luna](http://www.luna-lang.org)
+# [Luna](http://www.luna-lang.org)
 
 A new VPL with a simultaneous textual/visual view of the program.
 
@@ -360,7 +360,7 @@ HN: [Luna 1.0 Beta is out](https://news.ycombinator.com/item?id=16163769)
 <br><br><br><br>
 
 
-## [Max/MSP](https://cycling74.com/products/max)
+# [Max/MSP](https://cycling74.com/products/max)
 
 A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data).
 
@@ -370,7 +370,7 @@ Likely one of the most famous visual programming languages, widely used for more
 <br><br><br><br>
 
 
-## [Meemoo](https://meemoo.org)
+# [Meemoo](https://meemoo.org)
 
 A web-based tool for building interactive audio/visual projects, created by [Forrest Oliphant](https://www.forresto.com)
 
@@ -382,7 +382,7 @@ Designed to encourage hacking and modding, like [circuit bending](https://en.wik
 <br><br><br><br>
 
 
-## [Node-RED](https://nodered.org)
+# [Node-RED](https://nodered.org)
 
 "A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
 
@@ -390,7 +390,7 @@ Designed to encourage hacking and modding, like [circuit bending](https://en.wik
 <br><br><br><br>
 
 
-## [NodeBox](https://www.nodebox.net)
+# [NodeBox](https://www.nodebox.net)
 
 A dataflow environment created by the [Experimental Media Research Group](https://www.emrg.be) for datavis, generative design, and animations.
 
@@ -398,7 +398,7 @@ A dataflow environment created by the [Experimental Media Research Group](https:
 <br><br><br><br>
 
 
-## [NoFlo](https://noflojs.org)
+# [NoFlo](https://noflojs.org)
 
 A flow-based programming environment for JavaScript, targeting the web and Node.js.
 
@@ -408,7 +408,7 @@ Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo
 <br><br><br><br>
 
 
-## [OpenPonk](https://modeling-languages.com/openponk-metamodeling-platform/)
+# [OpenPonk](https://modeling-languages.com/openponk-metamodeling-platform/)
 
 A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk dialect), used to experiment with the creation of modelling tools.
 
@@ -416,7 +416,7 @@ A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk d
 <br><br><br><br>
 
 
-## [Origami](https://origami.design)
+# [Origami](https://origami.design)
 
 A prototyping tool built atop [Quartz Composer](#quartz-composer) by Facebook.
 
@@ -428,7 +428,7 @@ Used to prototype the UI/UX of their Paper app.
 <br><br><br><br>
 
 
-## PA3D
+# PA3D
 
 [Video demo](https://www.youtube.com/watch?v=5JzaEUJ7IbE) — "PAD3D was a very early (about 1993) zoomable user interface implemented on an SGI in Lisp using accelerated 3D graphics.  This demo shows zooming, authoring, text, images, dynamic fisheye of source code, live visual bookmarks, and a nested zooming file browser."
 
@@ -436,7 +436,7 @@ Used to prototype the UI/UX of their Paper app.
 <br><br><br><br>
 
 
-## [Parabola](https://parabola.io)
+# [Parabola](https://parabola.io)
 
 A simple VPL for automating tasks, similar to [IFTTT](#ifttt).
 
@@ -446,7 +446,7 @@ A simple VPL for automating tasks, similar to [IFTTT](#ifttt).
 <br><br><br><br>
 
 
-## [Patternodes](https://www.lostminds.com/patternodes2/)
+# [Patternodes](https://www.lostminds.com/patternodes2/)
 
 A nice-looking VPL for creating repeating pattern graphics
 
@@ -456,7 +456,7 @@ Includes features for creating animated patterns
 <br><br><br><br>
 
 
-## [Piet](http://www.dangermouse.net/esoteric/piet.html)
+# [Piet](http://www.dangermouse.net/esoteric/piet.html)
 
 "Piet is a programming language in which programs look like abstract paintings."
 
@@ -466,7 +466,7 @@ Includes features for creating animated patterns
 <br><br><br><br>
 
 
-## PIM — Programming In the Model
+# PIM — Programming In the Model
 
 Research project by Myriam Maleki
 
@@ -484,7 +484,7 @@ Echoes some of the ideas in Bret Victor's Learnable Programming and Drawing Dyna
 <br><br><br><br>
 
 
-## [PraxisLive](https://www.praxislive.org)
+# [PraxisLive](https://www.praxislive.org)
 
 A visual IDE for creative coding, focussing on realtime audio and video (OpenGL).
 
@@ -494,7 +494,7 @@ On [Twitter](https://twitter.com/PraxisLIVE)
 <br><br><br><br>
 
 
-## [Pure Data](https://puredata.info)
+# [Pure Data](https://puredata.info)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pure_Data)
 
@@ -506,7 +506,7 @@ The help and tutorial documents are implemented as Pd patches, and you are encou
 <br><br><br><br>
 
 
-## [Quartz Composer](https://en.wikipedia.org/wiki/Quartz_Composer)
+# [Quartz Composer](https://en.wikipedia.org/wiki/Quartz_Composer)
 
 A tool from Apple for creating animations and prototypes, leveraging technologies in macOS like CoreImage.
 
@@ -514,7 +514,7 @@ A tool from Apple for creating animations and prototypes, leveraging technologie
 <br><br><br><br>
 
 
-## [Recursive Drawing](http://recursivedrawing.com)
+# [Recursive Drawing](http://recursivedrawing.com)
 
 "an exploration of user interface ideas towards the development of a spatially-oriented programming environment."
 
@@ -526,7 +526,7 @@ Reflected on [here](reflections.md#by-toby-schachman)
 <br><br><br><br>
 
 
-## [Rete](https://github.com/retejs/rete)
+# [Rete](https://github.com/retejs/rete)
 
 Allows you to create node-based editors in the browser.
 
@@ -537,7 +537,7 @@ This project seems pretty rough, but it's surprisingly popular. There might be s
 <br><br><br><br>
 
 
-## [Retrobatch](https://flyingmeat.com/retrobatch/)
+# [Retrobatch](https://flyingmeat.com/retrobatch/)
 
 A node-based batch image processor
 
@@ -545,7 +545,7 @@ A node-based batch image processor
 <br><br><br><br>
 
 
-## [SchemeBricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
+# [SchemeBricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
 
 by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
 
@@ -553,7 +553,7 @@ by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitt
 <br><br><br><br>
 
 
-## Scratch
+# Scratch
 
 A VPL designed mainly for children. Scratch is a text-centric language that you assemble using blocks that snap together, with the syntax rules enforced by the shape of the blocks. Color is used to indicate a block's type of data or behaviour.
 
@@ -565,7 +565,7 @@ A VPL designed mainly for children. Scratch is a text-centric language that you 
 <br><br><br><br>
 
 
-## [Shadershop](http://tobyschachman.com/Shadershop/)
+# [Shadershop](http://tobyschachman.com/Shadershop/)
 
 "Shadershop is an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer’s spatial reasoning the way that coding today leverages the programmer’s symbolic reasoning."
 
@@ -575,7 +575,7 @@ By Toby Schachman
 <br><br><br><br>
 
 
-## Sketchpad
+# Sketchpad
 
 One of the first GUIs ever, created by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963.
 
@@ -589,7 +589,7 @@ One of the first GUIs ever, created by [Ivan Sutherland](https://en.wikipedia.or
 <br><br><br><br>
 
 
-## [Snap!](https://snap.berkeley.edu)
+# [Snap!](https://snap.berkeley.edu)
 
 A [Scratch](#scratch)-inspired block-snapping VPL with first-class procedures, lists, objects, and continuations.
 
@@ -599,7 +599,7 @@ A [Scratch](#scratch)-inspired block-snapping VPL with first-class procedures, l
 <br><br><br><br>
 
 
-## [Skov](http://skov.software/en/)
+# [Skov](http://skov.software/en/)
 
 A rather neat-looking VPL, vaguely reminiscent of [Scratch](#scratch) (ie. not a patch-based VPL). Very tree-centric. Based on [Factor](https://github.com/factor/factor/).
 
@@ -609,7 +609,7 @@ A rather neat-looking VPL, vaguely reminiscent of [Scratch](#scratch) (ie. not a
 <br><br><br><br>
 
 
-## [Softimage ICE](https://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment)
+# [Softimage ICE](https://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment)
 
 A node-based VPL for scripting Softimage. Useful for procedural modelling, deformation, rigging, particle simulation, animation, etc.
 
@@ -617,7 +617,7 @@ A node-based VPL for scripting Softimage. Useful for procedural modelling, defor
 <br><br><br><br>
 
 
-## [SwiftVPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
+# [SwiftVPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
 
 "node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch"
 
@@ -625,7 +625,7 @@ A node-based VPL for scripting Softimage. Useful for procedural modelling, defor
 <br><br><br><br>
 
 
-## ThoughtTalk
+# ThoughtTalk
 
 A prototype for directly manipulating abstractions by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
 
@@ -635,7 +635,7 @@ A prototype for directly manipulating abstractions by [Sean McDirmid](https://tw
 <br><br><br><br>
 
 
-## [Tombstone Engine](http://tombstoneengine.com)
+# [Tombstone Engine](http://tombstoneengine.com)
 
 A game engine that includes some VPL editor tools: A [shader editor](http://tombstoneengine.com/wiki/index.php?title=Shader_Editor) and [script editor](http://tombstoneengine.com/wiki/index.php?title=Script_Editor).
 
@@ -643,7 +643,7 @@ A game engine that includes some VPL editor tools: A [shader editor](http://tomb
 <br><br><br><br>
 
 
-## [TouchDesigner](http://derivative.ca)
+# [TouchDesigner](http://derivative.ca)
 
 Features a node-based programming environment (mainly for multimedia) that is extendable/interoperable with Python
 
@@ -651,7 +651,7 @@ Features a node-based programming environment (mainly for multimedia) that is ex
 <br><br><br><br>
 
 
-## [UAV Toolkit](https://fo.am/uav-toolkit/)
+# [UAV Toolkit](https://fo.am/uav-toolkit/)
 
 by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
 
@@ -659,13 +659,13 @@ by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitt
 <br><br><br><br>
 
 
-## [Unison](http://unisonweb.org)
+# [Unison](http://unisonweb.org)
 
 
 <br><br><br><br>
 
 
-## [Vogo](http://mgrf.de/vogo/)
+# [Vogo](http://mgrf.de/vogo/)
 
 Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
 
@@ -673,7 +673,7 @@ Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wik
 <br><br><br><br>
 
 
-## [Vuo](https://vuo.org)
+# [Vuo](https://vuo.org)
 
 A high-performance patcher VPL for live VJ-ing, similar to [vvvv](#vvvv), Processing, and [Max](#max-msp).
 
@@ -683,7 +683,7 @@ Here's an interesting page: [How does Vuo compare to other creative coding envir
 <br><br><br><br>
 
 
-## [vvvv](https://vvvv.org)
+# [vvvv](https://vvvv.org)
 
 A hybrid visual/textual live-programming environment. "It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously."
 
@@ -693,13 +693,13 @@ A hybrid visual/textual live-programming environment. "It is designed to facilit
 <br><br><br><br>
 
 
-## [WoofJS](http://woofjs.com/teach.html)
+# [WoofJS](http://woofjs.com/teach.html)
 
 
 <br><br><br><br>
 
 
-## [XOD](https://xod.io)
+# [XOD](https://xod.io)
 
 A vertical patcher VPL for microcontrollers, with a nice looking grid structure (rows with gutters)
 
@@ -707,26 +707,8 @@ A vertical patcher VPL for microcontrollers, with a nice looking grid structure 
 <br><br><br><br>
 
 
-## [Zells](http://zells.org)
+# [Zells](http://zells.org)
 
 by [Nikolas Martens](http://rtens.org)
 
 Prototype 5 [demo video](https://www.youtube.com/watch?v=T0fLZ8XceLo): A spatial VPL that uses omnidirectional pulses to convey data and drive execution.
-
-
----
-
-
-# Esoteric VPLs
-
-
-
-[Befunge](http://catseye.tc/article/Languages.md#befunge-93)
-
-    [Wikipedia](https://en.wikipedia.org/wiki/Befunge): "Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid."
-
-    [GIF](https://twitter.com/algoritmic/status/988137596638425089) of Befunge code being interpreted
-
-
-
-[Cvlemar](http://esolangs.org/wiki/Cvlemar) — "A program is a map of lines connected to nodes. It does steps by sending each input node to all lines from that node, and sends output to the output nodes. If more than one number sending to a output node, all are added together."

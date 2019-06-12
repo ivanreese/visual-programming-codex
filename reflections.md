@@ -22,6 +22,10 @@
     * Talks about [Statebox](https://statebox.org), who have some interesting [Medium posts](https://blog.statebox.org)
 
 
+### by Caitlin Kelleher and Randy Pausch
+* [Lowering the Barriers to Programming: a survey of programming environments and languages for novice programmers](https://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf)
+
+
 ### by [Emily Nakashima](https://twitter.com/eanakashima)
 * Talk: [Whoa, pictures! A visual history of visual programming languages!](https://www.youtube.com/watch?v=mU1aPvvQbqk)
     * Quickly surveys some of history's more interesting VPLs, with fun commentary and a nod the handful of studied benefits and downsides.
@@ -107,9 +111,17 @@
 ---
 
 
-## Assorted Papers
+## [Esolangs](http://esolangs.org)
 
-* [Lowering the Barriers to Programming: a survey of programming environments and languages for novice programmers](https://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf) by Caitlin Kelleher and Randy Pausch
+These collections of esoteric programming languages might be of interest to people looking for ideas _way_ outside the mainstream.
+
+* [Category: 2d-languages](https://esolangs.org/wiki/Category:Two-dimensional_languages)
+* [Category: Multi-dimensional languages](https://esolangs.org/wiki/Category:Multi-dimensional_languages)
+* [Category: Non-textual](https://esolangs.org/wiki/Category:Non-textual)
+* [Category: Particle automata](https://esolangs.org/wiki/Category:Particle_automata)
+* [List of Ideas: Game](http://esolangs.org/wiki/List_of_ideas#Game)
+* [List of Ideas: Graphical input and/or output](https://esolangs.org/wiki/List_of_ideas#Graphical_input_and.2For_output)
+* [List of Ideas: Music](https://esolangs.org/wiki/List_of_ideas#Music)
 
 
 ---
