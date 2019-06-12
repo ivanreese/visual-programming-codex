@@ -154,7 +154,7 @@ Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 A rudimentary nodes-and-wires patcher used for procedural animation and rule-based particle effects in [Cinema 4D](https://en.wikipedia.org/wiki/Cinema_4D).
 
-You can read my impressions [here](impressions/cinema-4d-xpresso).
+You can read my impressions [here](impressions/cinema-4d-xpresso.md).
 
 
 <br><br><br><br>
@@ -417,7 +417,7 @@ A prototyping tool originally built atop [Quartz Composer](#quartz-composer), bu
 
 * Used to prototype the UI/UX of their Paper app.
 
-* I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings. You can read more of my impressions [here](impressions/origami).
+* I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings. You can read more of my impressions [here](impressions/origami.md).
 
 
 <br><br><br><br>

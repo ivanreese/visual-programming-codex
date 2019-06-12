@@ -1,6 +1,6 @@
-![](assets/origami.png)
+![](/assets/origami.png)
 
-## Impressions: [Origami](implementations.md#origami)
+## Impressions: [Origami](/implementations.md#origami)
 
 After playing with Origami for a few hours, going through the tutorials, I've found that it offers a few interesting tweaks on the common nodes-based VPL format, though with a raft of apparent shortcomings.
 
