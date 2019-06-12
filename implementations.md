@@ -35,14 +35,15 @@ By [Toby Schachman](https://twitter.com/tobiaschneider)
 <br><br><br><br>
 
 
-![](assets/befunge.png)
+![](assets/befunge.gif)
 
 # [Befunge](http://catseye.tc/article/Languages.md#befunge-93)
 by Chris Pressey of [Cat's Eye Technologies](https://catseye.tc)
 
 > Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid.
 
-* [GIF](https://twitter.com/algoritmic/status/988137596638425089) of Befunge code being interpreted.
+This [blog post](https://dorianbrown.dev/befunge/) by Dorian Brown does a fantastic job of visualizing the execution of Befunge, and includes an interactive playground.
+
 * [Esolangs](https://esolangs.org/wiki/Befunge-93)
 * [Wikipedia](https://en.wikipedia.org/wiki/Befunge)
 
