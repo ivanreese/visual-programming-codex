@@ -79,13 +79,14 @@ A scripting system built into the Unreal Engine.
 <br><br><br><br>
 
 
+![](assets/bubble.png)
+
 ### [Bubble](https://bubble.is)
 
-A visual framework for creating web applications.
+A drag-and-drop tool for creating web applications. There's a visual design mode that looks a bit like Keynote or iBooks Author, and a "Workflow" programming mode that seems similar to [IFTTT](#ifttt).
 
-Blog: [Creating a $100,000/mo Business That Helps People Learn to Code](https://www.indiehackers.com/businesses/bubble)
-
-  [HN Discussion](https://news.ycombinator.com/item?id=15681379)
+* Blog: [Creating a $100,000/mo Business That Helps People Learn to Code](https://www.indiehackers.com/businesses/bubble)
+    * [HN Discussion](https://news.ycombinator.com/item?id=15681379)
 
 
 <br><br><br><br>
@@ -325,7 +326,7 @@ The layout of nodes is quite distinct — it feels more like a transit map (or [
 
 ### [Litegraph.js](https://github.com/jagenjo/litegraph.js)
 
-"A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
+"A graph node engine and editor written in Javascript similar to [PD](#pure-data) or [UDK Blueprints](#blueprint), comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
 
 Handy list of [projects using Litegraph](https://github.com/jagenjo/litegraph.js#projects-using-it)
 
@@ -437,7 +438,7 @@ Used to prototype the UI/UX of their Paper app.
 
 ### [Parabola](https://parabola.io)
 
-A simple VPL for automating tasks, similar to [IFTTT](implementations.md#ifttt).
+A simple VPL for automating tasks, similar to [IFTTT](#ifttt).
 
 [HN Discussion](https://news.ycombinator.com/item?id=17147272)
 
