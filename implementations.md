@@ -333,9 +333,11 @@ Handy list of [projects using Litegraph](https://github.com/jagenjo/litegraph.js
 <br><br><br><br>
 
 
-# [Lobe](https://lobe.ai)
+![](assets/lobe.png)
 
-A visual tool for training ML models.
+# [Lobe](https://lobe.ai)
+by [Mike Matas](https://en.wikipedia.org/wiki/Mike_Matas), [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), et al. Now owned by Microsoft.
+> Build, train, and ship custom deep learning models using a simple visual interface.
 
 
 <br><br><br><br>
