@@ -80,7 +80,7 @@
 
 
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
-* A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) programs.
+* A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) scripts.
 
 
 ### [Data Authoring Environments](http://staging.dubberly.com/Data_Authoring_Environments/180702-An%20Overview%20of%20Data%20Authoring%20Environments/180702_Data_Authoring_Environments.pdf)
