@@ -55,9 +55,13 @@ by Chris Pressey of [Cat's Eye Technologies](https://catseye.tc)
 # [Blender](https://www.blender.org/)
 Blender is an open-source 3D animation program with several visual programming tools.
 
+<br>
+
 ![](assets/blender-node-editor.png)
 
 The [node editor](https://docs.blender.org/manual/en/latest/editors/node_editor/introduction.html) allows you to create materials (shaders), texture maps, and compositing flows. They're also used for [rendering](https://docs.blender.org/manual/en/latest/render/cycles/nodes/introduction.html).
+
+<br>
 
 ![](assets/blender-logic-editor.png)
 
