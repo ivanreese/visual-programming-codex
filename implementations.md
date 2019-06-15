@@ -174,6 +174,8 @@ On [Twitter](https://twitter.com/DeepUINews)
 <br><br><br><br>
 
 
+![](assets/drakon.gif)
+
 # DRAKON
 
 > The language provides a uniform way to represent flowcharts of any complexity that are easy to read and understand.
