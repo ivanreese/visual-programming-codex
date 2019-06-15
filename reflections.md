@@ -1,4 +1,13 @@
-## ★ [Bret Victor](http://worrydream.com) [[Twitter](https://twitter.com/worrydream)]
+## [Anton Livaja](https://twitter.com/AntonLivaja)
+* Blog Post: [Why Visual Programming Doesn't Suck](https://blog.statebox.org/why-visual-programming-doesnt-suck-2c1ece2a414e)
+    * [HN Discussion](https://news.ycombinator.com/item?id=19025639)
+    * Talks about [Statebox](https://statebox.org), who have some interesting [Medium posts](https://blog.statebox.org)
+
+
+<br><br><br><br>
+
+
+## [Bret Victor](http://worrydream.com)
 * Talk: [Inventing on Principle](http://worrydream.com/InventingOnPrinciple)
     * The talk that launched a thousand research careers.
 * Talk: [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
@@ -12,15 +21,6 @@
     * > Traditional visual environments visualize the code. They visualize static structure. But that's not what we need to understand. We need to understand what the code is doing. Visualize data, not code. Dynamic behavior, not static structure.
 
 I could continue linking to dozens of things on [Bret's site](http://worrydream.com). The next time I read through them, I might link to some more and add my reflections. In the mean time, it should suffice to say that pretty much everything on his website is revelatory, inspirational, worthy of mass movements being forming around, and essential. His work largely defined the current cultural moment in programming tools, HCI, visual languages, and other computing frontiers of interest to readers of this codex.
-
-
-<br><br><br><br>
-
-
-## [Anton Livaja](https://twitter.com/AntonLivaja)
-* Blog Post: [Why Visual Programming Doesn't Suck](https://blog.statebox.org/why-visual-programming-doesnt-suck-2c1ece2a414e)
-    * [HN Discussion](https://news.ycombinator.com/item?id=19025639)
-    * Talks about [Statebox](https://statebox.org), who have some interesting [Medium posts](https://blog.statebox.org)
 
 
 <br><br><br><br>

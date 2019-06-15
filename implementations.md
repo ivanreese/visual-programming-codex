@@ -164,11 +164,9 @@ You can read my impressions [here](impressions/cinema-4d-xpresso.md).
 ![](assets/deep-ui.png)
 
 # [DeepUI](https://deepui.io)
-by Arnold Lágler
+by [Arnold Lágler](https://twitter.com/DeepUINews)
 
-Inspired by Bret Victor's [Drawing Dynamic Visualizations](reflections.md#drawing-dynamic-visualizations). The developer made a rough prototype (unreleased) and a concept video (shown on the website), but then wasn't able to continue working any further on this project, sadly. They suggested to me that they believe [Luna](#luna) to be more promising direction because it's more generic and not restricted to the domain of interactive animations.
-
-On [Twitter](https://twitter.com/DeepUINews)
+Inspired by [Bret Victor's Drawing Dynamic Visualizations](reflections.md#bret-victor). The developer made a rough prototype (unreleased) and a concept video (shown on the website), but then wasn't able to continue working any further on this project, sadly. They suggested to me that they believe [Luna](#luna) to be more promising direction because it's more generic and not restricted to the domain of interactive animations.
 
 
 <br><br><br><br>
@@ -176,11 +174,9 @@ On [Twitter](https://twitter.com/DeepUINews)
 
 ![](assets/drakon.gif)
 
-# DRAKON
+# [DRAKON](https://en.wikipedia.org/wiki/DRAKON)
 
 > The language provides a uniform way to represent flowcharts of any complexity that are easy to read and understand.
-
-[Wikipedia](https://en.wikipedia.org/wiki/DRAKON)
 
 
 <br><br><br><br>
@@ -695,6 +691,7 @@ A hybrid visual/textual live-programming environment. "It is designed to facilit
 
 
 # [WoofJS](http://woofjs.com/teach.html)
+by [Steve Krouse](reflections.md#steve-krouse)
 
 
 <br><br><br><br>
