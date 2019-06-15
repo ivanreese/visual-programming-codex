@@ -148,6 +148,7 @@ Created by [Murukesh Sadasivan](https://twitter.com/murukeshs)
 
 <br><br><br><br>
 
+
 ![](assets/cinema-4d-xpresso.png)
 
 # [Cinema 4D Xpresso](https://help.maxon.net/us/#5829)
@@ -160,9 +161,12 @@ You can read my impressions [here](impressions/cinema-4d-xpresso.md).
 <br><br><br><br>
 
 
-# [DeepUI](https://deepui.io)
+![](assets/deep-ui.png)
 
-Inspired by [Stop Drawing Dead Fish](reflections.md#stop-drawing-dead-fish)
+# [DeepUI](https://deepui.io)
+by Arnold Lágler
+
+Inspired by Bret Victor's [Drawing Dynamic Visualizations](reflections.md#drawing-dynamic-visualizations). The developer made a rough prototype (unreleased) and a concept video (shown on the website), but then wasn't able to continue working any further on this project, sadly. They suggested to me that they believe [Luna](#luna) to be more promising direction because it's more generic and not restricted to the domain of interactive animations.
 
 On [Twitter](https://twitter.com/DeepUINews)
 
