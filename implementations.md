@@ -364,11 +364,14 @@ Likely one of the most famous visual programming languages, widely used for more
 <br><br><br><br>
 
 
+![](assets/meemoo.jpg)
+
 # [Meemoo](https://meemoo.org)
+by [Forrest Oliphant](https://www.forresto.com)
 
-A web-based tool for building interactive audio/visual projects, created by [Forrest Oliphant](https://www.forresto.com)
+A web-based tool for building interactive audio/visual projects.
 
-Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software.
+Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software. For instance, you can edit the "meta drake" shown above [here](https://app.meemoo.org/#gist/8b234cbbfb2132b329fd45b82be90b0e). (Be sure to click the "start" button in the tween node.)
 
 [Paper](https://meemoo.org/files/ForrestOliphant-MeemooThesis-web.pdf)
 
