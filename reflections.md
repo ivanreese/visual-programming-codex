@@ -90,6 +90,7 @@ I could continue linking to dozens of things on [Bret's site](http://worrydream.
 
 
 ## [Sean McDirmid](https://twitter.com/seanmcdirmid18)
+* Talk: [A Live Programming Experience](https://www.youtube.com/watch?v=YLrdhFEAiqo) — From Strange Loop 2015, the talk demos a live programming environment where most of the coding work is done with the mouse. Partly inspired by [Bret Victor](#bret-victor), seemingly every part of the code can be "scrubbed", allowing interactive exploration of functions and values.
 * Talk: [The Future of Programming will be Live](https://www.youtube.com/watch?v=bnqkglrSqrg)
 * Discussion: [Beyond FRP: physics-inspired programming abstractions?](http://lambda-the-ultimate.org/node/2913)
 
