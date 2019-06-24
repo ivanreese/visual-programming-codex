@@ -250,9 +250,11 @@ This language has a particularly neat rendering style. I recommend taking a look
 <br><br><br><br>
 
 
+![](assets/grasshopper.png)
+
 # [Grasshopper](http://www.grasshopper3d.com)
 
-A VPL for procedural modelling in Rhino
+A VPL for procedural modelling in Rhino. It's neat that it uses little icons for nodes instead of names.
 
 
 <br><br><br><br>
