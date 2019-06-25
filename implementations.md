@@ -256,6 +256,10 @@ This language has a particularly neat rendering style. I recommend taking a look
 
 A VPL for procedural modelling in Rhino. It's neat that it uses little icons for nodes instead of names.
 
+![](assets/grasshopper-find.png)
+
+Grasshopper has a neat way of rendering the results of a "find" operation.
+
 
 <br><br><br><br>
 
