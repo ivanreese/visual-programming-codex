@@ -20,6 +20,10 @@
 * A minimalist game where you build a rail transit system. Not related to programming per se, but visually very similar to many patcher-style VPLs. The design language should be of interest to anyone working on patcher VPLs — and besides, it's a [good game](http://www.metacritic.com/game/ios/mini-metro) with [good music](http://designingsound.org/2016/02/18/the-programmed-music-of-mini-metro-interview-with-rich-vreeland-disasterpeace/).
 
 
+### [Northst*r](http://einblick.ai)
+* A data science / analysis tool with an interesting drag-and-drop interface. When watching their demo video (warning — it's a pretty large download) I found it fairly confusing and had trouble figuring out what things were, and what dragging them around would do. But it seemed fairly self-consistent, so this is probably just unfamiliarity on my part rather than a design weakness.
+
+
 ### [reacTable](http://reactable.com)
 * An electronic music instrument with a tangible user interface. Somewhat similar to DynamicLand, both in concept and implementation, but focussed on a very narrow use case. Famously used by Bjork as part of the [Volta](https://en.wikipedia.org/wiki/Volta_(album)) tour.
 * [Demo Video](https://www.youtube.com/watch?v=0h-RhyopUmc)
