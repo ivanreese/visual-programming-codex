@@ -272,6 +272,17 @@ Grasshopper has a neat way of rendering the results of a "find" operation.
 <br><br><br><br>
 
 
+![](assets/houdini.png)
+
+# [Houdini](https://en.wikipedia.org/wiki/Houdini_(software))
+by [SideFX](https://www.sidefx.com)
+
+A suite of 3d modelling and visual effects tools, with a number of different VPLs serving various uses.
+
+
+<br><br><br><br>
+
+
 ![](assets/ifttt.png)
 
 # [IFTTT](https://ifttt.com)
