@@ -401,9 +401,9 @@ Designed to encourage hacking and modding, like [circuit bending](https://en.wik
 <br><br><br><br>
 
 
-![](assets/neutron.jpg)
+![](assets/netron.jpg)
 
-# [Neutron](https://github.com/lutzroeder/netron)
+# [Netron](https://github.com/lutzroeder/netron)
 by [Lutz Roeder](https://www.lutzroeder.com)
 
 > Visualizer for neural network, deep learning and machine learning models
