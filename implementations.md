@@ -111,6 +111,21 @@ A drag-and-drop tool for creating web applications. There's a visual design mode
 <br><br><br><br>
 
 
+![](assets/cables.png)
+
+# [Cables](https://cables.gl)
+by [Undev](https://undev.studio)
+
+> Cables is your model kit for creating beautiful interactive content. With an easy to navigate interface and results in real time, it allows for fast prototyping and prompt adjustments.
+> Working with cables is just as easy as creating cable spaghetti:
+> You are provided with a given set of operators such as mathematical functions, shapes and materials.
+> Connect these to each other by virtual cables to create the scene you have in mind.
+> Easily export your piece of work at any time. Embed it into your website or use it for any kind of creative installation.
+
+
+<br><br><br><br>
+
+
 ![](assets/chain.png)
 
 # [Chain](https://github.com/mimorisuzuko/chain)
