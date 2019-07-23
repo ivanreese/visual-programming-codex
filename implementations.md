@@ -463,6 +463,12 @@ by [Variable](http://variable.io)
 
 * They've written a fantastic [blog post](http://nodes.io/story/#how-do-i-get-nodes) introducing the project and contextualizing it relative to similar tools.
 
+<br>
+
+![](assets/nodes-profiler.jpg)
+
+There are a lot of nice features. One, shown above, is a profiler that colors nodes based on the amount of CPU they burn each frame.
+
 
 <br><br><br><br>
 
