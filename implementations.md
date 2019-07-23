@@ -751,12 +751,6 @@ by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitt
 <br><br><br><br>
 
 
-# [Unison](http://unisonweb.org)
-
-
-<br><br><br><br>
-
-
 ![](assets/unity-visual-effect-graph.gif)
 
 # [Unity Visual Effect Graph](https://unity.com/visual-effect-graph)
