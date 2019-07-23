@@ -742,6 +742,17 @@ by [Unity](https://unity.com)
 <br><br><br><br>
 
 
+![](assets/vizor-patches.png)
+
+# [Vizor Patches](https://patches.vizor.io)
+by [Vizor](https://site.vizor.io)
+
+> Patches is a visual programming editor for building WebVR and WebGL experiences. With over 350 patches, ranging from low level programming, loops, variables and arrays to colour pickers and interaction triggers, Patches is a powerful and flexible modular system for building complex webVR projects. Patches is free to use, released under an MIT licence. It offers a UI to the popular Three.js library.
+
+
+<br><br><br><br>
+
+
 # [Vogo](http://mgrf.de/vogo/)
 
 Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
