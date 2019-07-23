@@ -728,6 +728,20 @@ by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitt
 <br><br><br><br>
 
 
+![](assets/unity-visual-effect-graph.gif)
+
+# [Unity Visual Effect Graph](https://unity.com/visual-effect-graph)
+by [Unity](https://unity.com)
+
+> A tool for building real-time visual effects in Unity. The tool uses GPU run compute shaders, and a node-based workflow.
+
+* Introductory [Demo Video](https://www.youtube.com/watch?v=SUZzJcBIK80) and [Blog Post](https://blogs.unity3d.com/2018/11/27/creating-explosive-visuals-with-the-visual-effect-graph/)
+* Documentation [on Github](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Visual-Effect-Graph)
+
+
+<br><br><br><br>
+
+
 # [Vogo](http://mgrf.de/vogo/)
 
 Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
