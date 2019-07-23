@@ -174,9 +174,12 @@ Inspired by [Bret Victor's Drawing Dynamic Visualizations](reflections.md#bret-v
 
 ![](assets/drakon.gif)
 
-# [DRAKON](https://en.wikipedia.org/wiki/DRAKON)
+# [DRAKON](http://drakon-editor.sourceforge.net)
 
 > The language provides a uniform way to represent flowcharts of any complexity that are easy to read and understand.
+
+* [Wikipedia](https://en.wikipedia.org/wiki/DRAKON)
+* [HN Discussion](https://news.ycombinator.com/item?id=10100932)
 
 
 <br><br><br><br>
