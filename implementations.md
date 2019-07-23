@@ -591,6 +591,8 @@ A node-based batch image processor
 <br><br><br><br>
 
 
+![](assets/riven.jpg)
+
 # [Riven](https://wiki.xxiivv.com/#riven)
 by [Devine Lu Linvega](https://xxiivv.com)
 
