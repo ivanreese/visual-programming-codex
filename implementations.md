@@ -446,6 +446,19 @@ A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk d
 <br><br><br><br>
 
 
+![](assets/orca.jpg)
+
+# [ORCΛ](https://wiki.xxiivv.com/#orca)
+by [Devine Lu Linvega](https://xxiivv.com)
+
+> Orca is a visual programming playground. Orca is an esoteric programming language, designed to create procedural sequencers. Each letter of the alphabet is an operation, uppercase letters operate each frame, lowercase letters operate on bang.
+
+* [Example 1](https://twitter.com/neauoire/status/1135510882807500800)
+* [Example 2](https://twitter.com/neauoire/status/1149853206018584576)
+
+<br><br><br><br>
+
+
 ![](assets/origami.png)
 
 # [Origami](https://origami.design)
@@ -573,6 +586,19 @@ This project seems pretty rough, but it's surprisingly popular. There might be s
 # [Retrobatch](https://flyingmeat.com/retrobatch/)
 
 A node-based batch image processor
+
+
+<br><br><br><br>
+
+
+# [Riven](https://wiki.xxiivv.com/#riven)
+by [Devine Lu Linvega](https://xxiivv.com)
+
+A flow-based framework for creating websites.
+
+Devine has a striking sense of aesthetics, and Riven is no exception.
+
+You can view (though I don't believe edit) [the Riven program](https://wiki.xxiivv.com/riven.html#home) that configures the server for their website.
 
 
 <br><br><br><br>
