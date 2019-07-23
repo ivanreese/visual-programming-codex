@@ -595,7 +595,7 @@ A tool from Apple for creating animations and prototypes, leveraging technologie
 
 by Toby Schachman
 
-Reflected on [here](reflections.md#by-toby-schachman)
+Reflected on [here](reflections.md#toby-schachman)
 
 
 <br><br><br><br>
