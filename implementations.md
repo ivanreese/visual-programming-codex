@@ -353,6 +353,8 @@ by [Mike Matas](https://en.wikipedia.org/wiki/Mike_Matas), [Jaron Lanier](https:
 <br><br><br><br>
 
 
+![](assets/luna.png)
+
 # [Luna](http://www.luna-lang.org)
 
 A new VPL with a simultaneous textual/visual view of the program.
@@ -391,6 +393,17 @@ A web-based tool for building interactive audio/visual projects.
 Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software. For instance, you can edit the "meta drake" shown above [here](https://app.meemoo.org/#gist/8b234cbbfb2132b329fd45b82be90b0e). (Be sure to click the "start" button in the tween node.)
 
 [Paper](https://meemoo.org/files/ForrestOliphant-MeemooThesis-web.pdf)
+
+
+<br><br><br><br>
+
+
+![](assets/neutron.jpg)
+
+# [Neutron](https://github.com/lutzroeder/netron)
+by [Lutz Roeder](https://www.lutzroeder.com)
+
+> Visualizer for neural network, deep learning and machine learning models
 
 
 <br><br><br><br>
@@ -569,6 +582,8 @@ by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitt
 
 <br><br><br><br>
 
+
+![](assets/scratch.png)
 
 # Scratch
 
