@@ -453,6 +453,20 @@ Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo
 <br><br><br><br>
 
 
+![](assets/nodes.jpg)
+
+# [Nodes](http://nodes.io)
+by [Variable](http://variable.io)
+
+> Nodes is your thinking space for exploring ideas with code on the web, powered by JavaScript and NPM.
+> What if programming was about ideas not semicolons? Compose, abstract, generalise. Start from top down or bottom up and refine as you go. With Nodes programming feels like sketching on canvas. Zoom in and out of problems, experiment on the side and easily re-use parts of other projects.
+
+* They've written a fantastic [blog post](http://nodes.io/story/#how-do-i-get-nodes) introducing the project and contextualizing it relative to similar tools.
+
+
+<br><br><br><br>
+
+
 # [OpenPonk](https://modeling-languages.com/openponk-metamodeling-platform/)
 
 A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk dialect), used to experiment with the creation of modelling tools.
