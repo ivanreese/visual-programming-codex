@@ -122,6 +122,8 @@ by [Undev](https://undev.studio)
 > Connect these to each other by virtual cables to create the scene you have in mind.
 > Easily export your piece of work at any time. Embed it into your website or use it for any kind of creative installation.
 
+* Here's a nice short [tutorial video](https://www.youtube.com/watch?v=QXxgX2kS0TE) that shows some of the features, what the editor interface is like, etc.
+
 
 <br><br><br><br>
 
