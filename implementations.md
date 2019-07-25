@@ -393,6 +393,16 @@ HN: [Luna 1.0 Beta is out](https://news.ycombinator.com/item?id=16163769)
 <br><br><br><br>
 
 
+![](assets/lynx.png)
+
+# [Lynx](https://lynxtool.com)
+
+A work-in-progress visual language with an emphasis on approachability. Looking at their [What](https://lynxtool.com/doc/What.html) page is worthwhile, as they have a handful of UI ideas that I've not seen elsewhere, and many twists on typical UI ideas to make them nicer than the norm.
+
+
+<br><br><br><br>
+
+
 # [Max/MSP](https://cycling74.com/products/max)
 
 A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data).
