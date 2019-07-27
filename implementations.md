@@ -202,20 +202,6 @@ Inspired by [Bret Victor's Drawing Dynamic Visualizations](reflections.md#bret-v
 <br><br><br><br>
 
 
-# Duangle Prototypes: Noodles, Conspire
-
-Prototypes created by Leonard Ritter of Duangle for their game Nowhere.
-
-Blog post: [Conspire: A Programming Environment for NOWHERE](http://blog.duangle.com/2015/01/conspire-programming-environment-for.html)
-
-Noodles includes a "compact" feature, which wraps selected node boxes into a new node, preserving connections.
-
-Conspire is a Lisp-like (so non-visual, but...), designed to be extended in terms of itself: "And then it hit me: what if the editor was built from the grounds up with Lispy principles: the simplest graphically based visualization possible, extensible from within the editor, so that the editor would factually become an editor-editor"
-
-
-<br><br><br><br>
-
-
 # [Dynamicland](http://dynamicland.org)
 
 Programing wrested away from the screen, rendered into that most immersive and expressive medium: the physical world.
@@ -455,16 +441,6 @@ A dataflow environment created by the [Experimental Media Research Group](https:
 <br><br><br><br>
 
 
-# [NoFlo](https://noflojs.org)
-
-A flow-based programming environment for JavaScript, targeting the web and Node.js.
-
-Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo/noflo-ui)
-
-
-<br><br><br><br>
-
-
 ![](assets/nodes.jpg)
 
 # [Nodes](http://nodes.io)
@@ -480,6 +456,27 @@ by [Variable](http://variable.io)
 ![](assets/nodes-profiler.jpg)
 
 There are a lot of nice features. One, shown above, is a profiler that colors nodes based on the amount of CPU they burn each frame.
+
+
+<br><br><br><br>
+
+
+# [NoFlo](https://noflojs.org)
+
+A flow-based programming environment for JavaScript, targeting the web and Node.js.
+
+Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo/noflo-ui)
+
+
+<br><br><br><br>
+
+
+![](assets/noodles.png)
+
+# [Noodles](https://blog.duangle.com/2015/01/conspire-programming-environment-for.html)
+by [Duangle](https://twitter.com/duangle)
+
+A prototype VPL from this [blog post](http://blog.duangle.com/2015/01/conspire-programming-environment-for.html). It's interesting how they found working in it felt unproductive, so they switched to a structured editor and a Lisp.
 
 
 <br><br><br><br>
