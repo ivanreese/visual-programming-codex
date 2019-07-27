@@ -251,13 +251,18 @@ There are some interesting ideas about state and control flow in this one. It's 
 <br><br><br><br>
 
 
-# [Genesis](https://github.com/rff255/Genesis)
+![](assets/genesis.png)
 
-IDE for modeling and simulation of Cellular Automata
+# [Genesis](https://github.com/rff255/Genesis)
+by Rodrigo F. Figueiredo
+
+> IDE for modeling and simulation of Cellular Automata
 
 
 <br><br><br><br>
 
+
+![](assets/github-actions.png)
 
 # [Github Actions](https://github.com/features/actions)
 
@@ -267,11 +272,15 @@ A tool for configuring workflows triggered by Github repo events.
 <br><br><br><br>
 
 
+![](assets/glance.png)
+
 # [Glance](https://github.com/rgleichman/glance)
+by Robbie Gleichman
 
-A visual Haskell
+> Currently, the Glance executable produces a visual representation of your code in the form of an SVG image when given a textual Haskell source file.
 
-This language has a particularly neat rendering style. I recommend taking a look at [Advantages of Glance](https://github.com/rgleichman/glance/wiki/Advantages-of-Glance) for examples.
+* This tool has a particularly neat rendering style. I recommend taking a look at [Advantages of Glance](https://github.com/rgleichman/glance/wiki/Advantages-of-Glance) for examples.
+* The [Related Work](https://github.com/rgleichman/glance/wiki/Related-work) page has some good links.
 
 
 <br><br><br><br>
