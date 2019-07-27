@@ -235,6 +235,19 @@ A new SmallTalk/HyperCard-like tool
 <br><br><br><br>
 
 
+![](assets/full-metal-jacket.png)
+
+# [Full Metal Jacket](http://www.fmjlang.co.uk/fmj/FMJ.html)
+by Donald Fisk
+
+There are some interesting ideas about state and control flow in this one. It's the product of a formal academic process, being written up in a few papers, so there's definitely more thought put into it than might appear judging just by the visual design. It's also newer than you might think — circa 2015.
+
+> Iteration uses two special linked vertices called start+ and repeat+. The start+ vertex has an equal number of inputs and outputs. When a value is received on every input of start+, each value is output on the corresponding output. The repeat+ vertex has the same number of inputs as start+, each of which has the same type. An edge connected to an input on repeat+ really sends its values to the corresponding input on start+.
+
+
+<br><br><br><br>
+
+
 # [Genesis](https://github.com/rff255/Genesis)
 
 IDE for modeling and simulation of Cellular Automata
