@@ -300,9 +300,15 @@ Grasshopper has a neat way of rendering the results of a "find" operation.
 <br><br><br><br>
 
 
-# Hopscotch
+![](assets/hopscotch.png)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
+# [Hopscotch](https://www.gethopscotch.com)
+by Hopscotch Technologies — Jocelyn Leavitt, Samantha John, Ana Handley, Rodrigo Tello, and Nazarí González
+
+An iPhone/iPad app, heavily inspired by [Scratch](#scratch), with a focus on introducing children to programming by having them make games.
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Hopscotch_(programming_language))
+* Samantha John was a guest on [Episode 5](https://futureofcoding.org/episodes/005) of the [Future of Coding](https://futureofcoding.org/) podcast.
 
 
 <br><br><br><br>
