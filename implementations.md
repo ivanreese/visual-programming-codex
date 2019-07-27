@@ -227,7 +227,10 @@ An interesting and fairly early visual language, built in Smalltalk by one of Sm
 <br><br><br><br>
 
 
+![](assets/fizzygum.gif)
+
 # [Fizzygum](http://fizzygum.org)
+by [Davide Della Casa](http://davidedc.com)
 
 A new SmallTalk/HyperCard-like tool
 
