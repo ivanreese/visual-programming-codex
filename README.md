@@ -5,6 +5,7 @@ Despite the GUI going mainstream in the 80s, the programming community has large
 1. [Implementations](implementations.md) — Specific products, projects, or prototypes.
 1. [Reflections](reflections.md) — Talks, articles, papers, and links broadly about non-textual programming.
 1. [Inspirations](inspirations.md) — Visual systems for things that only loosely resemble programming.
+1. [Criticisms](criticisms.md) — Arguments against visual programming, and reflections on them.
 1. [Community](community.md) — Interesting places to read, listen, and discuss.
 1. [Impressions](impressions) — My 2¢
 

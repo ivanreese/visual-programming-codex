@@ -178,9 +178,6 @@ These collections of esoteric programming languages might be of interest to peop
 ### [Category: Visual programming languages](https://en.wikipedia.org/wiki/Category:Visual_programming_languages)
 * Lists all the Wikipedia articles in the VPL category.
 
-### [Deutsch limit](https://en.wikipedia.org/wiki/Deutsch_limit)
-* The problem with visual programming is that you can’t have more than 50 visual primitives on the screen at the same time.
-
 ### [Flow-based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
 
 ### [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
