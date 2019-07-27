@@ -202,9 +202,12 @@ Inspired by [Bret Victor's Drawing Dynamic Visualizations](reflections.md#bret-v
 <br><br><br><br>
 
 
-# [Dynamicland](http://dynamicland.org)
+![](assets/dynamicland.jpg)
 
-Programing wrested away from the screen, rendered into that most immersive and expressive medium: the physical world.
+# [Dynamicland](http://dynamicland.org)
+by [Bret Victor](http://worrydream.com) (et al.)
+
+Programming wrested away from the screen, rendered into that most immersive and expressive medium: the physical world. If you are reading this and you've never heard of Dynamicland, I insist that you now go learn all you can about it — my codex references nothing else as interesting or exciting as this project.
 
 
 <br><br><br><br>
@@ -476,7 +479,7 @@ Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo
 # [Noodles](https://blog.duangle.com/2015/01/conspire-programming-environment-for.html)
 by [Duangle](https://twitter.com/duangle)
 
-A prototype VPL from this [blog post](http://blog.duangle.com/2015/01/conspire-programming-environment-for.html). It's interesting how they found working in it felt unproductive, so they switched to a structured editor and a Lisp.
+A prototype VPL created for scripting in a game project. It's interesting how they found working in it felt unproductive, so they switched to a structured editor and a Lisp.
 
 
 <br><br><br><br>
