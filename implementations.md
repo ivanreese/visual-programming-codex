@@ -213,13 +213,15 @@ Programming wrested away from the screen, rendered into that most immersive and 
 <br><br><br><br>
 
 
-# Fabrik
+![](assets/fabrik.gif)
 
-Built in SmallTalk by [Apple ATG](https://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group)
+# [Fabrik](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)
+by [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls), Scott Wallace, Yu-Ying Chow, Frank Ludolph, and Ken Doyle at the [Apple ATG](https://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group)
 
-Paper: [Fabrik: A Visual Programming Environment](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)
+An interesting and fairly early visual language, built in Smalltalk by one of Smalltalk's creators. Also interesting to consider that this work was being done coincidently with HyperCard at Apple.
 
-  [HN Discussion](https://news.ycombinator.com/item?id=12104463)
+* [Wikipedia](https://en.wikipedia.org/wiki/Fabrik_(software))
+* [HN Discussion](https://news.ycombinator.com/item?id=12104463)
 
 
 <br><br><br><br>
