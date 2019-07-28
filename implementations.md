@@ -777,7 +777,9 @@ A node-based VPL for scripting Softimage. Useful for procedural modelling, defor
 
 # [Swift VPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
 
-"node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch"
+> Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission. This project aims to proof the node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch entirely.
+
+A rough prototype that looks modern but doesn't seem particularly fleshed-out. One nice feature is the way nodes are created using the Apple Pencil, which you can see [here](https://www.youtube.com/watch?v=BNWC_OF5Q-Y).
 
 
 <br><br><br><br>
