@@ -645,9 +645,11 @@ The help and tutorial documents are implemented as Pd patches, and you are encou
 <br><br><br><br>
 
 
+![](assets/quartz-composer.jpg)
+
 # [Quartz Composer](https://en.wikipedia.org/wiki/Quartz_Composer)
 
-A tool from Apple for creating animations and prototypes, leveraging technologies in macOS like CoreImage.
+A discontinued tool from Apple that was useful for creating animations and prototypes, leveraging technologies in macOS like CoreImage.
 
 
 <br><br><br><br>
