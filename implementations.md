@@ -713,13 +713,11 @@ by [Dave Griffiths](http://www.pawfal.org/dave/) [[Twitter](https://twitter.com/
 
 ![](assets/scratch.png)
 
-# Scratch
+# [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language))
 
 A VPL designed mainly for children. Scratch is a text-centric language that you assemble using blocks that snap together, with the syntax rules enforced by the shape of the blocks. Color is used to indicate a block's type of data or behaviour.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Scratch_(programming_language))
-
-[Scratch 3.0](https://llk.github.io/scratch-gui/), which runs in the browser
+* [Scratch 3.0](https://llk.github.io/scratch-gui/), which runs in the browser
 
 
 <br><br><br><br>
@@ -757,7 +755,6 @@ by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963
 > Snap! is a broadly inviting programming language for kids and adults that's also a platform for serious study of computer science.
 
 A [Scratch](#scratch)-inspired block-snapping VPL with first-class procedures, lists, objects, and continuations.
-
 
 
 <br><br><br><br>
@@ -879,7 +876,6 @@ by [Matthias Graf](http://mgrf.de)
 * [Nicky Case](#joy-js) made [something similar](https://twitter.com/ncasenmare/status/919219174311911424), leading to a good twitter thread.
 
 
-
 <br><br><br><br>
 
 
@@ -889,7 +885,7 @@ by [Matthias Graf](http://mgrf.de)
 
 A high-performance patcher VPL for live VJ-ing, similar to [vvvv](#vvvv), Processing, [Max](#max-msp), and [Quartz Composer](#quartz-composer).
 
-Here's an interesting page: [How does Vuo compare to other creative coding environments?](https://vuo.org/compare/building) (Be sure to flip through the various tabs)
+* Here's an interesting page: [How does Vuo compare to other creative coding environments?](https://vuo.org/compare/building) (Be sure to flip through the various tabs)
 
 
 <br><br><br><br>
