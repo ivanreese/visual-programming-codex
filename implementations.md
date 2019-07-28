@@ -773,7 +773,9 @@ A node-based VPL for scripting Softimage. Useful for procedural modelling, defor
 <br><br><br><br>
 
 
-# [SwiftVPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
+![](assets/swift-vpl.png)
+
+# [Swift VPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
 
 "node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch"
 
