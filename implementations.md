@@ -781,11 +781,14 @@ A node-based VPL for scripting Softimage. Useful for procedural modelling, defor
 <br><br><br><br>
 
 
+![](assets/thoughttalk.png)
+
 # ThoughtTalk
+by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
 
-A prototype for directly manipulating abstractions by [Sean McDirmid](https://twitter.com/seanmcdirmid18)
+A neat prototype for directly manipulating abstractions.
 
-[Demo Video](https://www.youtube.com/watch?v=e6ZyswW_0oo)
+* Sean has a number of videos of ThoughtTalk and other prototypes on [his YouTube channel](https://www.youtube.com/user/seanmcdirmid/videos), like [this narrated video](https://www.youtube.com/watch?v=e6ZyswW_0oo) and this [quick demo](https://www.youtube.com/watch?v=4bMjNyqQHfY).
 
 
 <br><br><br><br>
