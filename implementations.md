@@ -870,13 +870,6 @@ A hybrid visual/textual live-programming environment. "It is designed to facilit
 <br><br><br><br>
 
 
-# [WoofJS](http://woofjs.com/teach.html)
-by [Steve Krouse](reflections.md#steve-krouse)
-
-
-<br><br><br><br>
-
-
 # [XOD](https://xod.io)
 
 A vertical patcher VPL for microcontrollers, with a nice looking grid structure (rows with gutters)
