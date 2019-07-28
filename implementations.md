@@ -850,9 +850,11 @@ Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wik
 <br><br><br><br>
 
 
+![](assets/vuo.png)
+
 # [Vuo](https://vuo.org)
 
-A high-performance patcher VPL for live VJ-ing, similar to [vvvv](#vvvv), Processing, and [Max](#max-msp).
+A high-performance patcher VPL for live VJ-ing, similar to [vvvv](#vvvv), Processing, [Max](#max-msp), and [Quartz Composer](#quartz-composer).
 
 Here's an interesting page: [How does Vuo compare to other creative coding environments?](https://vuo.org/compare/building) (Be sure to flip through the various tabs)
 
