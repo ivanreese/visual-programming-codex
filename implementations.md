@@ -860,9 +860,11 @@ Here's an interesting page: [How does Vuo compare to other creative coding envir
 <br><br><br><br>
 
 
+![](assets/vvvv.png)
+
 # [vvvv](https://vvvv.org)
 
-A hybrid visual/textual live-programming environment. "It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously."
+> A hybrid visual/textual live-programming environment. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Vvvv)
 
