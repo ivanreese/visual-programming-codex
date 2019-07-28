@@ -842,9 +842,17 @@ by [Vizor](https://site.vizor.io)
 <br><br><br><br>
 
 
-# [Vogo](http://mgrf.de/vogo/)
+![](assets/vogo.png)
 
-Direct manipulation interface for [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
+# [Vogo](http://mgrf.de/vogo/)
+by [Matthias Graf](http://mgrf.de)
+
+> An experimental [direct manipulation](http://en.wikipedia.org/wiki/Direct_manipulation_interface) interface for [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics)
+
+* This isn't a general purpose language, but it is quite neat.
+* Be warned that the video on the project page might take a long time to download. You can watch it [on Vimeo](https://vimeo.com/113843398).
+* [Nicky Case](#joy-js) made [something similar](https://twitter.com/ncasenmare/status/919219174311911424), leading to a good twitter thread.
+
 
 
 <br><br><br><br>
