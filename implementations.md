@@ -667,10 +667,9 @@ Reflected on [here](reflections.md#toby-schachman)
 
 
 # [Rete](https://github.com/retejs/rete)
+by [Vitaliy Stoliarov](https://github.com/Ni55aN)
 
-Allows you to create node-based editors in the browser.
-
-"You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code."
+> Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.
 
 This project seems pretty rough, but it's surprisingly popular. There might be something to it that wasn't immediately obvious to me in my initial quick kick of the tires.
 
@@ -678,8 +677,9 @@ This project seems pretty rough, but it's surprisingly popular. There might be s
 
 
 # [Retrobatch](https://flyingmeat.com/retrobatch/)
+by [Gus Mueller](https://twitter.com/ccgus) at [Flying Meat](https://flyingmeat.com)
 
-A node-based batch image processor
+> Flexible, super charged, batch image processing for your Mac. A node based batch image processor means you can mix, match, and combine different operations together to make the perfect workflow. A node for every operation, from changing DPI to rotation to Machine Learning to custom behaviors with AppleScript. Optimize your images for fast delivery over the Internet.
 
 
 <br><br><br><br>
