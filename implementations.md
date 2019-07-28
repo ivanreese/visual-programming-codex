@@ -791,6 +791,8 @@ A prototype for directly manipulating abstractions by [Sean McDirmid](https://tw
 <br><br><br><br>
 
 
+![](assets/tombstone-engine-shader-editor.png)
+
 # [Tombstone Engine](http://tombstoneengine.com)
 
 A game engine that includes some VPL editor tools: A [shader editor](http://tombstoneengine.com/wiki/index.php?title=Shader_Editor) and [script editor](http://tombstoneengine.com/wiki/index.php?title=Script_Editor).
