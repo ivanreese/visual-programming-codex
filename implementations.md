@@ -809,9 +809,12 @@ Features a node-based programming environment (mainly for multimedia) that is ex
 <br><br><br><br>
 
 
-# [UAV Toolkit](https://fo.am/uav-toolkit/)
+![](assets/uav-toolkit.jpg)
 
+# [UAV Toolkit](https://fo.am/uav-toolkit/)
 by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
+
+> The UAV toolkit is an [experimental android application](https://play.google.com/store/apps/details?id=foam.uavtoolkit&hl=en) for making use of your smartphone's sensors for airborne science. Its main purpose is using visually programmed time or space based triggers to capture images with associated sensor data for further processing.
 
 
 <br><br><br><br>
