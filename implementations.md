@@ -734,9 +734,9 @@ By Toby Schachman
 ![](assets/sketchpad.png)
 
 # [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad)
+by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963
 
-One of the first GUIs ever, created by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963.
-
+* One of the first ever GUIs.
 * [Demo Video](https://www.youtube.com/watch?v=495nCzxM9PI) with commentary by Alan Kay
 * [HN Discussion](https://news.ycombinator.com/item?id=8912137)
 * [HN Discussion](https://news.ycombinator.com/item?id=13932586)
