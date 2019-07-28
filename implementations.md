@@ -700,9 +700,12 @@ You can view (though I don't believe edit) [the Riven program](https://wiki.xxii
 <br><br><br><br>
 
 
-# [SchemeBricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
+![](assets/scheme-bricks.jpg)
 
-by Dave Griffiths [[Site](http://www.pawfal.org/dave/)] [[Twitter](https://twitter.com/nebogeo)]
+# [Scheme Bricks](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
+by [Dave Griffiths](http://www.pawfal.org/dave/) [[Twitter](https://twitter.com/nebogeo)]
+
+> A way to livecode scheme visually, by plugging in and tearing off bits of code.
 
 
 <br><br><br><br>
