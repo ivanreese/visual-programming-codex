@@ -633,6 +633,8 @@ On [Twitter](https://twitter.com/PraxisLIVE)
 <br><br><br><br>
 
 
+![](assets/pure-data.png)
+
 # [Pure Data](https://puredata.info)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pure_Data)
