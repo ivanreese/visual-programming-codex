@@ -666,6 +666,8 @@ Reflected on [here](reflections.md#toby-schachman)
 <br><br><br><br>
 
 
+![](assets/rete.png)
+
 # [Rete](https://github.com/retejs/rete)
 by [Vitaliy Stoliarov](https://github.com/Ni55aN)
 
@@ -675,6 +677,8 @@ This project seems pretty rough, but it's surprisingly popular. There might be s
 
 <br><br><br><br>
 
+
+![](assets/retrobatch.png)
 
 # [Retrobatch](https://flyingmeat.com/retrobatch/)
 by [Gus Mueller](https://twitter.com/ccgus) at [Flying Meat](https://flyingmeat.com)
