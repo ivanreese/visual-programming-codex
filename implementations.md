@@ -653,11 +653,12 @@ A tool from Apple for creating animations and prototypes, leveraging technologie
 <br><br><br><br>
 
 
+![](assets/recursive-drawing.png)
+
 # [Recursive Drawing](http://recursivedrawing.com)
+by [Toby Schachman](https://twitter.com/tobiaschneider)
 
-"an exploration of user interface ideas towards the development of a spatially-oriented programming environment."
-
-by Toby Schachman
+> Recursive Drawing is an exploration of user interface ideas towards the development of a spatially-oriented programming environment.
 
 Reflected on [here](reflections.md#toby-schachman)
 
@@ -721,11 +722,12 @@ A VPL designed mainly for children. Scratch is a text-centric language that you 
 <br><br><br><br>
 
 
+![](assets/shadershop.png)
+
 # [Shadershop](http://tobyschachman.com/Shadershop/)
+By [Toby Schachman](https://twitter.com/tobiaschneider)
 
-"Shadershop is an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer’s spatial reasoning the way that coding today leverages the programmer’s symbolic reasoning."
-
-By Toby Schachman
+> Shadershop is an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer's spatial reasoning the way that coding today leverages the programmer's symbolic reasoning.
 
 
 <br><br><br><br>
@@ -749,7 +751,7 @@ by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963
 
 # [Snap!](https://snap.berkeley.edu)
 
-> Snap! is a broadly inviting programming language for kids and adults that’s also a platform for serious study of computer science.
+> Snap! is a broadly inviting programming language for kids and adults that's also a platform for serious study of computer science.
 
 A [Scratch](#scratch)-inspired block-snapping VPL with first-class procedures, lists, objects, and continuations.
 
