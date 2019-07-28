@@ -742,7 +742,7 @@ By [Toby Schachman](https://twitter.com/tobiaschneider)
 <br><br><br><br>
 
 
-![](assets/sketchpad.png)
+![](assets/sketchpad.jpg)
 
 # [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad)
 by [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) in 1963
