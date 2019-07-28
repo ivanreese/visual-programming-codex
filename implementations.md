@@ -745,15 +745,20 @@ One of the first GUIs ever, created by [Ivan Sutherland](https://en.wikipedia.or
 <br><br><br><br>
 
 
+![](assets/snap.png)
+
 # [Snap!](https://snap.berkeley.edu)
+
+> Snap! is a broadly inviting programming language for kids and adults that’s also a platform for serious study of computer science.
 
 A [Scratch](#scratch)-inspired block-snapping VPL with first-class procedures, lists, objects, and continuations.
 
-"a broadly inviting programming language for kids and adults that’s also a platform for serious study of computer science"
 
 
 <br><br><br><br>
 
+
+![](assets/skov.png)
 
 # [Skov](http://skov.software/en/)
 
