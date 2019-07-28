@@ -765,9 +765,11 @@ A rather neat-looking VPL, vaguely reminiscent of [Scratch](#scratch) (ie. not a
 <br><br><br><br>
 
 
+![](assets/softimage-ice.png)
+
 # [Softimage ICE](https://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment)
 
-A node-based VPL for scripting Softimage. Useful for procedural modelling, deformation, rigging, particle simulation, animation, etc.
+A node-based VPL for scripting Softimage (RIP). Useful for procedural modelling, deformation, rigging, particle simulation, animation, etc.
 
 
 <br><br><br><br>
