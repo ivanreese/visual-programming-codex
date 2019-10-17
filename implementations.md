@@ -213,6 +213,17 @@ Programming wrested away from the screen, rendered into that most immersive and 
 <br><br><br><br>
 
 
+![](https://github.com/kousun12/eternal/raw/master/eternal.png)
+
+# [Eternal](https://github.com/kousun12/eternal)
+by [Rob Cheung](https://www.robcheung.com/)
+
+Fully open source and web based programming enviroment in javascript (React).
+> You can think of it as an extension of Sol LeWitt's process art in the sense that it's goal is to decompose art into procedural descriptions. Or you can think of it as an extension of Brian Eno's idea of "music as gardening" in the sense that it gives you a computational garden to tend to.
+
+<br><br><br><br>
+
+
 ![](assets/fabrik.gif)
 
 # [Fabrik](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)
