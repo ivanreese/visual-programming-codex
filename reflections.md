@@ -53,6 +53,11 @@ I could continue linking to dozens of things on [Bret's site](http://worrydream.
 
 <br><br><br><br>
 
+## [Ivan Daniluk](https://divan.dev/)
+* Blog post: [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
+
+<br><br><br><br>
+
 
 ## [Jason Brennan](http://whynotfireworks.com)
 * Blog post: [Programming with Comics](http://whynotfireworks.com/programming-with-comics/)
