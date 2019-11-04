@@ -1,5 +1,17 @@
+## [Esolangs](http://esolangs.org)
+This wiki of esoteric programming languages might be of interest to people looking for ideas _way_ outside the mainstream. My favourite categories:
+
+* [Category: 2d-languages](https://esolangs.org/wiki/Category:Two-dimensional_languages)
+* [Category: Multi-dimensional languages](https://esolangs.org/wiki/Category:Multi-dimensional_languages)
+* [Category: Non-textual](https://esolangs.org/wiki/Category:Non-textual)
+* [Category: Particle automata](https://esolangs.org/wiki/Category:Particle_automata)
+* [List of Ideas: Game](http://esolangs.org/wiki/List_of_ideas#Game)
+* [List of Ideas: Graphical input and/or output](https://esolangs.org/wiki/List_of_ideas#Graphical_input_and.2For_output)
+* [List of Ideas: Music](https://esolangs.org/wiki/List_of_ideas#Music)
+
+
 ### [Future of Coding](https://futureofcoding.org)
-* A Slack community and podcast hosted by [Steve Krouse](https://twitter.com/stevekrouse), with frequent and thriving discussions of visual programming, novel editors & languages, and the half-forgotten history of our field.
+* A Slack community and podcast hosted by [Steve Krouse](https://twitter.com/stevekrouse) and haunted by [yours truly](https://twitter.com/spiralganglion), with frequent and thriving discussions of visual programming, novel editors & languages, and the half-forgotten history of our field.
 
 
 ### [Glance — Related Work](https://github.com/rgleichman/glance/wiki/Related-work)
