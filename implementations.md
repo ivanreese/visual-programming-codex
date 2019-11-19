@@ -916,7 +916,8 @@ A high-performance patcher VPL for live VJ-ing, similar to [vvvv](#vvvv), Proces
 
 > A hybrid visual/textual live-programming environment. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Vvvv)
+* [Wikipedia](https://en.wikipedia.org/wiki/Vvvv)
+* [Creating a Simple Drawing App (with Undo!)](https://vimeo.com/364546032) — a very cool demo that quickly gives you a taste of data types, collections, operators, etc.
 
 
 <br><br><br><br>
