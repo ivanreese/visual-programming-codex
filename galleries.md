@@ -1,3 +1,6 @@
+### [Authoring-Environments.com Collection](http://authoring-environments.com/collection)
+* An Airtable of various authoring environments, including many VPLs and similar tools.
+
 ### [Blueprints From Hell](https://blueprintsfromhell.tumblr.com)
 * A Tumblr collecting examples of large or messy [Blueprint](implementations.md#blueprint) scripts.
 
