@@ -559,6 +559,7 @@ by [Devine Lu Linvega](https://xxiivv.com)
 
 * [Example 1](https://twitter.com/neauoire/status/1135510882807500800)
 * [Example 2](https://twitter.com/neauoire/status/1149853206018584576)
+* [Orca Workshop (Video)](https://www.youtube.com/watch?v=WIzI_PSBw6o) — This is a nice introduction to the tool. The live camera is a bit hard to see, but the video is well edited and frequently cuts to a screen capture.
 
 <br><br><br><br>
 
