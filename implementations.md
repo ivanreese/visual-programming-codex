@@ -565,7 +565,7 @@ Orca doesn't generate any sound on its own. It's not even a tool for music until
 * [Example 2](https://twitter.com/neauoire/status/1149853206018584576)
 * [ORCA Sequencer Intro](https://www.youtube.com/watch?v=RaI_TuISSJE&t=839) — This is a nice introductory tutorial. I've linked to a spot in the video that should give you a taste of the spatial nature of Orca.
 
-I wonder what would happen if someone fed the output of a finite automata into Orca, or used it as part of a roguelike.
+I wonder what would happen if someone fed the output of a cellular automaton into Orca, or used it as part of a roguelike.
 
 <br><br><br><br>
 
