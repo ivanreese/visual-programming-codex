@@ -557,9 +557,15 @@ by [Devine Lu Linvega](https://xxiivv.com)
 
 > Orca is a visual programming playground. Orca is an esoteric programming language, designed to create procedural sequencers. Each letter of the alphabet is an operation, uppercase letters operate each frame, lowercase letters operate on bang.
 
+If you haven't seen it in action, you might think that Orca doesn't really qualify as a visual language. Well, Orca uses text the same way classic roguelike games do — think ADOM or Dwarf Fortress. Each letter of the alphabet represents a function, with inputs on either side and output coming out the bottom. You pass data between functions by arranging them spatially on the grid. Your state is visible as numbers and letters on the grid, too. The fact that letters are used to represent both functions and data means there's a decent amount of metaprogramming easily within reach. In fact, Orca sits at an interesting space between "programming language" and "music sequencer", making the programming experience feel a lot like improvising and exploring on a musical instrument. Very cool.
+
+Orca doesn't generate any sound on its own. It's not even a tool for music until you hook it up to (eg) a synthesizer. But you could also hook it up to something else, like a game engine, and use it to drive game logic or graphics.
+
 * [Example 1](https://twitter.com/neauoire/status/1135510882807500800)
 * [Example 2](https://twitter.com/neauoire/status/1149853206018584576)
-* [Orca Workshop (Video)](https://www.youtube.com/watch?v=WIzI_PSBw6o) — This is a nice introduction to the tool. The live camera is a bit hard to see, but the video is well edited and frequently cuts to a screen capture.
+* [ORCA Sequencer Intro](https://www.youtube.com/watch?v=RaI_TuISSJE&t=839) — This is a nice introductory tutorial. I've linked to a spot in the video that should give you a taste of the spatial nature of Orca.
+
+I wonder what would happen if someone fed the output of a finite automata into Orca, or used it as part of a roguelike.
 
 <br><br><br><br>
 
