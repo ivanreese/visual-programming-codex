@@ -292,7 +292,7 @@ by Robbie Gleichman
 
 * This tool has a particularly neat rendering style. I recommend taking a look at [Advantages of Glance](https://github.com/rgleichman/glance/wiki/Advantages-of-Glance) for examples.
 * The [Related Work](https://github.com/rgleichman/glance/wiki/Related-work) page has some good links.
-
+* Robbie recently posted [a talk](https://www.youtube.com/watch?v=cb25Ts4rLXA) discussing the design of a new, more compact syntax for Glance. Feedback should be shared in [the Future of Programming](https://futureofcoding.slack.com/archives/CCL5VVBAN/p1576657342007300) Slack community.
 
 <br><br><br><br>
 
