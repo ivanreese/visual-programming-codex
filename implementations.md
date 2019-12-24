@@ -879,6 +879,21 @@ by [Unity](https://unity.com)
 <br><br><br><br>
 
 
+![](assets/viewpoint.jpg)
+
+# [Viewpoint](http://www.scottkim.com.previewc40.carrierzone.com/viewpoint/index.html)
+by [Scott Kim](http://www.scottkim.com)
+
+> It struck me as odd, and deeply wrong, that we were building tools for visual artists in a programming language that was utterly symbolic, and lacking in visual sophistication. I yearned for a programming language that had the same visual clarity that graphic user interfaces had.
+
+A prototype "pixel editor" programming system where the pixels on the screen hold the full state of the system, created during Kim's internship at Xerox PARC in the early 1980s.
+
+* [Demo Video](https://www.youtube.com/watch?v=9G0r7jL3xl8)
+* [Dissertation (PDF)](http://www.scottkim.com.previewc40.carrierzone.com/viewpoint/viewpoint-dissertation.pdf) — There's a brief update from 2013 included near the start, summarizing Kim's more recent thoughts about visual programming and reflecting on what the Viewpoint project was intended to achieve.
+
+<br><br><br><br>
+
+
 ![](assets/vizor-patches.png)
 
 # [Vizor Patches](https://patches.vizor.io)
