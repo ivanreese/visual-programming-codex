@@ -42,6 +42,19 @@ I could continue linking to dozens of things on [Bret's site](http://worrydream.
 <br><br><br><br>
 
 
+## Fred Lakin
+* [The Visual Raccoon (Blog)](https://visualraccoon.wordpress.com)
+* [A Visual Agent for Group Graphics (YouTube Playlist)](https://www.youtube.com/watch?v=UPcKQZsAPZU&list=PLkA_GCLjNM3ABxdR396FXXwyNrbZuD9B_)
+* [ResearchGate Profile](https://www.researchgate.net/profile/Fred_Lakin)
+
+Fred's websites seem to have perished at the end of 2019, but Archive.org is a good friend:
+* [Visual Grammars for Visual Languages](https://web.archive.org/web/20190828123706/http://visualgrammarsforvisuallanguages.com/)
+* [The Performing Graphics Company](https://web.archive.org/web/20181227221105/http://pgc.com/)
+
+
+<br><br><br><br>
+
+
 ## [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha)
 * [Illiterate Programming](https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html)
     * A blog post about literate programming that turns into a demo of the Ampleforth live-coding environment for [Newspeak](https://en.wikipedia.org/wiki/Newspeak_(programming_language)). Hint: the browser back button can be used to navigate "back" when interacting with the embedded Ampleforth editors.

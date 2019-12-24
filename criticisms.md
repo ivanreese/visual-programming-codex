@@ -1,6 +1,8 @@
 ### [Deutsch limit](https://en.wikipedia.org/wiki/Deutsch_limit)
 > The problem with visual programming is that you can’t have more than 50 visual primitives on the screen at the same time.
 
+* Coined by [Fred Lakin](reflections.md#fred-lakin)
+
 ### Abstraction
 * It is argued that there aren't many well-explored patterns for abstraction, aside from simply collapsing sections of visual code (akin to subroutines at worst or named functions at best).
 
