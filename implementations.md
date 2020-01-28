@@ -231,6 +231,8 @@ by [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls), Scott Wallace, Yu-Y
 
 An interesting and fairly early visual language, built in Smalltalk by one of Smalltalk's creators. Also interesting to consider that this work was being done coincidently with HyperCard at Apple.
 
+> Fabrik is a visual programming environment — a kit of computational and user-interface components that can be "wired" together to build new components and useful applications. Fabrik diagrams utilize bidirectional dataflow connections as a shorthand for multiple paths of flow. Built on object-oriented foundations, Fabrik components can compute arbitrary objects as outputs. Music and animation can be programmed in this way and the user interface can even be extended by generating graphical structures that depend on other data. An interactive type system guards against meaningless connections. As with simple dataflow, each Fabrik component can be compiled into an object with access methods corresponding to each of the possible paths of data propagation.
+
 * [Wikipedia](https://en.wikipedia.org/wiki/Fabrik_(software))
 * [HN Discussion](https://news.ycombinator.com/item?id=12104463)
 
