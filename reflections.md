@@ -142,6 +142,6 @@ Created the Cornell Program Synthesizer in 1978, an IDE-like system that showed 
 <br><br><br><br>
 
 
-## [Toby Schachman](https://twitter.com/tobiaschneider)
+## [Toby Schachman](https://twitter.com/mandy3284)
 * Talk: [Alternative Programming Interfaces for Alternative Programmers](https://vimeo.com/41968528)
   * Led to the [Recursive Drawing](implementations.md#recursive-drawing) project.

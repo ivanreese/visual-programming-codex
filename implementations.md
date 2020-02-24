@@ -12,7 +12,7 @@ By [Matt Keeter](http://www.mattkeeter.com)
 ![](assets/apparatus.jpg)
 
 # [Apparatus](http://aprt.us)
-By [Toby Schachman](https://twitter.com/tobiaschneider)
+By [Toby Schachman](https://twitter.com/mandy3284)
 
 > A hybrid graphics editor and programming environment for creating interactive diagrams.
 
@@ -680,7 +680,7 @@ A discontinued tool from Apple that was useful for creating animations and proto
 ![](assets/recursive-drawing.png)
 
 # [Recursive Drawing](http://recursivedrawing.com)
-by [Toby Schachman](https://twitter.com/tobiaschneider)
+by [Toby Schachman](https://twitter.com/mandy3284)
 
 > Recursive Drawing is an exploration of user interface ideas towards the development of a spatially-oriented programming environment.
 
@@ -754,7 +754,7 @@ A VPL designed mainly for children. Scratch is a text-centric language that you 
 ![](assets/shadershop.png)
 
 # [Shadershop](http://tobyschachman.com/Shadershop/)
-By [Toby Schachman](https://twitter.com/tobiaschneider)
+By [Toby Schachman](https://twitter.com/mandy3284)
 
 > Shadershop is an interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop. It is an experiment in leveraging the programmer's spatial reasoning the way that coding today leverages the programmer's symbolic reasoning.
 
