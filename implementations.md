@@ -180,7 +180,7 @@ You can read my impressions [here](impressions/cinema-4d-xpresso.md).
 
 ![](assets/deep-ui.png)
 
-# [DeepUI](https://deepui.io)
+# [DeepUI](https://www.youtube.com/watch?v=Gy5m091fOTU)
 by [Arnold Lágler](https://twitter.com/DeepUINews)
 
 Inspired by [Bret Victor's Drawing Dynamic Visualizations](reflections.md#bret-victor). The developer made a rough prototype (unreleased) and a concept video (shown on the website), but then wasn't able to continue working any further on this project, sadly. They suggested to me that they believe [Luna](#luna) to be more promising direction because it's more generic and not restricted to the domain of interactive animations.
@@ -425,7 +425,7 @@ by [Mike Matas](https://en.wikipedia.org/wiki/Mike_Matas), [Jaron Lanier](https:
 
 # [Luna](http://www.luna-lang.org)
 
-A new VPL with a simultaneous textual/visual view of the program.
+A VPL with a simultaneous textual/visual view of the program. Recently rebooted as [Enso](https://twitter.com/enso_org).
 
 Subreddit: [LunaLang](https://www.reddit.com/r/LunaLang/)
 
