@@ -473,7 +473,7 @@ A work-in-progress visual language with an emphasis on approachability. Looking 
 <br><br><br><br>
 
 
-![](assets/imogen.png)
+![](assets/material-maker.png)
 
 # [Material Maker](https://github.com/CedricGuillemet/Imogen)
 by [Rodolphe Suescun](https://github.com/RodZill4)
