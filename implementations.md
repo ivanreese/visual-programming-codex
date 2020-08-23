@@ -264,6 +264,17 @@ There are some interesting ideas about state and control flow in this one. It's 
 <br><br><br><br>
 
 
+![](assets/fusion.jpg)
+
+# [Fusion](https://www.blackmagicdesign.com/products/fusion/)
+by [Blackmagic](https://www.blackmagicdesign.com/)
+
+A commercial node-based video compositing software for visual effects, concurrent of Adobe After Effects and Foundry's Nuke.
+
+
+<br><br><br><br>
+
+
 ![](assets/genesis.png)
 
 # [Genesis](https://github.com/rff255/Genesis)
@@ -363,6 +374,17 @@ A popular, basic tool for connecting and automating a handful of apps, services,
 <br><br><br><br>
 
 
+![](assets/imogen.png)
+
+# [Imogen](https://github.com/CedricGuillemet/Imogen)
+by [Cedric Guillemet](https://twitter.com/skaven_)
+
+A GPU/CPU Texture Generator using visual programming, available online: http://skaven.fr/imogen/
+
+
+<br><br><br><br>
+
+
 # [Interstate](http://interstate.from.so)
 
 A language+environment designed to show interactive behaviour with more clarity, using state machines and constraints.
@@ -451,6 +473,18 @@ A work-in-progress visual language with an emphasis on approachability. Looking 
 <br><br><br><br>
 
 
+![](assets/imogen.png)
+
+# [Material Maker](https://github.com/CedricGuillemet/Imogen)
+by [Rodolphe Suescun](https://github.com/RodZill4)
+
+> This is a tool based on Godot Engine that can be used to create textures procedurally.
+> Its user interface is based on Godot's GraphEdit node: textures are described as interconnected nodes.
+
+
+<br><br><br><br>
+
+
 # [Max/MSP](https://cycling74.com/products/max)
 
 A commercial VPL for musicians and artists, evolved out of [Pure Data](#pure-data).
@@ -471,6 +505,16 @@ A web-based tool for building interactive audio/visual projects.
 Designed to encourage hacking and modding, like [circuit bending](https://en.wikipedia.org/wiki/Circuit_bending) but for software. For instance, you can edit the "meta drake" shown above [here](https://app.meemoo.org/#gist/8b234cbbfb2132b329fd45b82be90b0e). (Be sure to click the "start" button in the tween node.)
 
 [Paper](https://meemoo.org/files/ForrestOliphant-MeemooThesis-web.pdf)
+
+
+<br><br><br><br>
+
+
+![](assets/natron.jpg)
+
+# [Natron](https://github.com/NatronGitHub/Natron)
+
+An open source node-based video compositing software for visual effects, heavily inspired by Foundry's Nuke.
 
 
 <br><br><br><br>
@@ -539,6 +583,17 @@ Related projects: [Flowhub](app.flowhub.io), [noflo-ui](https://github.com/noflo
 by [Duangle](https://twitter.com/duangle)
 
 A prototype VPL created for scripting in a game project. It's interesting how they found working in it felt unproductive, so they switched to a structured editor and a Lisp.
+
+
+<br><br><br><br>
+
+
+![](assets/nuke.jpg)
+
+# [Nuke](https://www.foundry.com/products/nuke)
+by [Foundry](https://www.foundry.com)
+
+A commercial node-based video compositing software for visual effects, concurrent of Adobe After Effects and Blackmagic Fusion.
 
 
 <br><br><br><br>
@@ -810,6 +865,17 @@ A node-based VPL for scripting Softimage (RIP). Useful for procedural modelling,
 <br><br><br><br>
 
 
+![](assets/substance-designer.jpg)
+
+# [Substance Designer](https://www.substance3d.com/products/substance-designer/)
+by [Adobe](https://www.adobe.com/)
+
+A commercial node-based editor for generating multi-channel texture images for video games and visual effects.
+
+
+<br><br><br><br>
+
+
 ![](assets/swift-vpl.png)
 
 # [Swift VPL](https://github.com/NathanFlurry/VisualProgrammingLanguage)
@@ -817,6 +883,17 @@ A node-based VPL for scripting Softimage (RIP). Useful for procedural modelling,
 > Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission. This project aims to proof the node-based visual programming language that assembles executable Swift code and can be written using an Apple Pencil or touch entirely.
 
 A rough prototype that looks modern but doesn't seem particularly fleshed-out. One nice feature is the way nodes are created using the Apple Pencil, which you can see [here](https://www.youtube.com/watch?v=BNWC_OF5Q-Y).
+
+
+<br><br><br><br>
+
+
+![](assets/texture-lab.png)
+
+# [TextureLab](https://github.com/njbrown/texturelab)
+by [Nicolas Brown](https://nickthecoder.wordpress.com/)
+
+Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator, heavily inpired by Adobe's Substance Designer.
 
 
 <br><br><br><br>
