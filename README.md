@@ -11,6 +11,6 @@ Despite the GUI going mainstream in the 80s, the programming community has large
 1. [Communities](communities.md) — Places to talk amongst ourselves.
 1. [Impressions](impressions) — My 2¢
 
-This is a perpetual work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's small right now, but will grow and gain structure and substance over the coming years. If you know of anything that could or should be added, please do open an issue or pull request.
+This is a perpetual work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's small right now, but will grow and gain structure and substance over the coming years. If you know of anything that could or should be added, please do open an issue or pull request. (Personally, I haven't had much time or energy to update this recently — but I am capturing all the interesting VPLs I hear about as [issues](https://github.com/ivanreese/visual-programming-codex/issues), so check those out if you're looking for more.)
 
 If you'd like to discuss visual programming, [DM me on Twitter](https://twitter.com/spiralganglion) or scroll down to the contact section on [my website](http://spiralganglion.com).
