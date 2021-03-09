@@ -475,7 +475,7 @@ A work-in-progress visual language with an emphasis on approachability. Looking 
 
 ![](assets/material-maker.png)
 
-# [Material Maker](https://github.com/CedricGuillemet/Imogen)
+# [Material Maker](https://rodzilla.itch.io/material-maker)
 by [Rodolphe Suescun](https://github.com/RodZill4)
 
 > This is a tool based on Godot Engine that can be used to create textures procedurally.
