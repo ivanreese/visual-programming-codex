@@ -11,6 +11,9 @@
 * A fantastic slide deck assembled by [Jonathan Edwards](https://twitter.com/jonathoda)
 * Discussed on HN [here](https://news.ycombinator.com/item?id=16624724) and [here](https://news.ycombinator.com/item?id=14290909)
 
+### [Models of Interaction](https://github.com/prathyvsh/models-of-interaction)
+* Collected by [Prathyush Pramod](https://twitter.com/prathyvsh)
+
 ### [Node-Based & Visual Programming Interfaces](https://www.are.na/francis-tseng/node-based-visual-programming-interfaces)
 * Assembled by [Francis Tseng](https://twitter.com/frnsys)
 
