@@ -15,6 +15,12 @@
 ### Scaling
 * The most common complaint from people _who have actually tried visual programming_ is that it works well in the small, but becomes untenable past a certain complexity threshold.
 
+### Version control
+* There is almost no generic version control systems with visual displaying of diffs
+* Node movement is diff
+* Parametric connection movement is diff
+* Almost impossible to work in team on one document and keep history of changes, especially if editor is not online
+
 ### Brooks
 In his famous paper [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf), Fred Brooks has a section stating that software suffers from **Invisibility**:
 
