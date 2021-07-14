@@ -28,6 +28,7 @@
   * How can I see history of changes with comments? Git solves that. There are some history of changes displayed (e.g. google docs), but without comments.
 * Conclusion: Using git for visual programming almost breaks UI workflow of most current visual programming tools. You will need switch to text view for almost all common tasks which git makes easy with regular programming launguages
   * e.g. imagine XML and diffs for this https://forum.digilentinc.com/uploads/monthly_2017_03/58cb2b05db14c_wholeblockdiagram.PNG.faed870ae0e68a0adaacee535050906c.PNG 
+    * source https://forum.digilentinc.com/topic/3700-vivado-block-diagram-pmodoledrgb_axi_quad_spi_0_0/
 
 ### Brooks
 In his famous paper [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf), Fred Brooks has a section stating that software suffers from **Invisibility**:
