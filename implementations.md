@@ -409,8 +409,6 @@ A live programming environment with *excellent* use of visual interactivity. For
 
 A visual programming language predominantly used in automation, test and data science applications. Each [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW) program is referred to as a Virtual Instrument (VI) which consists of two components; a Front Panel and a Block Diagram. The Front Panel represents both the Graphical User Interface and I/O terminals for the software, whereas the Block Diagram uses the concept of [dataflow](https://en.wikipedia.org/wiki/G_programming_language) to manage the propogation of data around nodes of execution.
 
-[Wikipedia]()
-
 
 <br><br><br><br>
 
