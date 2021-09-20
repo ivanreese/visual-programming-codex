@@ -112,6 +112,7 @@ Fred's websites seem to have perished at the end of 2019, but Archive.org is a g
 * Talk: [The Future of Programming will be Live](https://www.youtube.com/watch?v=bnqkglrSqrg)
 * Discussion: [Beyond FRP: physics-inspired programming abstractions?](http://lambda-the-ultimate.org/node/2913)
 * Sean has a number of videos of [ThoughtTalk](implementations.md#thoughttalk) and other prototypes on [his YouTube channel](https://www.youtube.com/user/seanmcdirmid/videos).
+* Paper: [Coding at the Speed of Touch](https://www.microsoft.com/en-us/research/publication/coding-at-the-speed-of-touch/) — Describes a touchscreen visual programming interface inspired by [Kodu](https://www.kodugamelab.com).
 
 <br><br><br><br>
 
