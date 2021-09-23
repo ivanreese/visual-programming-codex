@@ -888,6 +888,21 @@ A rough prototype that looks modern but doesn't seem particularly fleshed-out. O
 <br><br><br><br>
 
 
+![](assets/thinglab.png)
+
+# [ThingLab](https://github.com/njbrown/texturelab)
+by [Alan Borning](https://en.wikipedia.org/wiki/Alan_Borning)
+
+A Smalltalk-based visual programming system from the late 1970s. The definition of a ThingLab class includes a basic schema of data fields, constraints and other relationships between fields, some default values for the fields, and a drawing that would represent the class on the canvas. Attributes of the drawing (like point positions) are mapped to the data fields. By setting up the right sorts of constraints (which can include complex formulas), ThingLab allowed you to model complex geometric constructions, mass-and-spring physics, and electrical circuits.
+
+Here is a delightful video of Borning demoing ThingLab to his Xerox lab mates:
+
+<video controls src="http://videosrv14.cs.washington.edu/info/videos/mp4/general/ThingLab_Alan_Borning.mp4" type="video/mp4"></video>
+
+
+<br><br><br><br>
+
+
 ![](assets/texture-lab.png)
 
 # [TextureLab](https://github.com/njbrown/texturelab)
