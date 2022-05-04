@@ -650,6 +650,19 @@ A prototyping tool originally built atop [Quartz Composer](#quartz-composer), bu
 <br><br><br><br>
 
 
+![](assets/pane.png)
+
+# [PANE](http://joshuahhh.com/projects/pane/)
+By [Josh Horowitz](http://joshuahhh.com/)
+
+> A live, functional programming environment built around data-visibility. All intermediate values are visible by default, and you construct a program by acting on these concrete values.
+
+* [Talk at LIVE 2018](https://www.youtube.com/watch?v=fIEcXAHy6bU)
+
+
+<br><br><br><br>
+
+
 # [Parabola](https://parabola.io)
 
 A simple VPL for automating tasks, similar to [IFTTT](#ifttt).
