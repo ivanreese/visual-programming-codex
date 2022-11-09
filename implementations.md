@@ -374,6 +374,16 @@ A suite of 3d modelling and visual effects tools, with a number of different VPL
 <br><br><br><br>
 
 
+![](assets/iannix.png)
+
+# [IanniX](https://www.iannix.org/en/)
+by Guillaume Jacquemin & Thierry Coduys
+
+> IanniX is a graphical open source sequencer, based on Iannis Xenakis works, for digital art.
+
+
+<br><br><br><br>
+
 ![](assets/ifttt.png)
 
 # [IFTTT](https://ifttt.com)
