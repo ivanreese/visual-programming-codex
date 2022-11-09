@@ -51,6 +51,18 @@ This [blog post](https://dorianbrown.dev/befunge/) by Dorian Brown does a fantas
 <br><br><br><br>
 
 
+![](assets/bespoke_synth.png)
+
+# [Bespoke Synth](https://www.bespokesynth.com)
+by Ryan Challinor
+> A software modular synth with data visualisations in patch coords and more.
+
+* [Repository](https://github.com/BespokeSynth/BespokeSynth)
+
+
+<br><br><br><br>
+
+
 ![](assets/blender.jpg)
 
 # [Blender](https://www.blender.org/)
