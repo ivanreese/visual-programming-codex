@@ -51,6 +51,18 @@ This [blog post](https://dorianbrown.dev/befunge/) by Dorian Brown does a fantas
 <br><br><br><br>
 
 
+![](assets/bespoke_synth.jpg)
+
+# [Bespoke Synth](https://www.bespokesynth.com)
+by Ryan Challinor
+> A software modular synth with data visualisations in patch coords and more.
+
+* [Repository](https://github.com/BespokeSynth/BespokeSynth)
+
+
+<br><br><br><br>
+
+
 ![](assets/blender.jpg)
 
 # [Blender](https://www.blender.org/)
@@ -361,7 +373,6 @@ A suite of 3d modelling and visual effects tools, with a number of different VPL
 
 <br><br><br><br>
 
-
 ![](assets/ifttt.png)
 
 # [IFTTT](https://ifttt.com)
@@ -603,6 +614,18 @@ A commercial node-based video compositing software for visual effects, concurren
 
 A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk dialect), used to experiment with the creation of modelling tools.
 
+
+<br><br><br><br>
+
+
+![](assets/ossia_score.png)
+
+# [ossia score](https://ossia.io/)
+
+> A free, open-source, cross-platform intermedia sequencer for precise and flexible scripting of interactive scenarios.
+Control and score any OSC-compliant software or hardware: Max/MSP, PureData, openFrameworks, Processing… 
+
+* [Repository](https://github.com/OSSIA/score)
 
 <br><br><br><br>
 
