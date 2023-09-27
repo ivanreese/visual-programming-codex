@@ -416,6 +416,16 @@ A live programming environment with *excellent* use of visual interactivity. For
 <br><br><br><br>
 
 
+![](assets/kyma.png)
+
+# [Kyma](https://kyma.symbolicsound.com/)
+
+A visual programming language for sound design on dedicated DSP hardware. The DSP handles audio processing and is controlled by the Kyma software running on an external computer. The Kyma language consists of sound sources and transforms connected with cables that represent signal flow.
+
+
+<br><br><br><br>
+
+
 # LabVIEW
 
 A visual programming language predominantly used in automation, test and data science applications. Each [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW) program is referred to as a Virtual Instrument (VI) which consists of two components; a Front Panel and a Block Diagram. The Front Panel represents both the Graphical User Interface and I/O terminals for the software, whereas the Block Diagram uses the concept of [dataflow](https://en.wikipedia.org/wiki/G_programming_language) to manage the propogation of data around nodes of execution.
@@ -768,6 +778,16 @@ A discontinued tool from Apple that was useful for creating animations and proto
 <br><br><br><br>
 
 
+![](assets/reaktor.png)
+
+# [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/)
+
+Modular music and sound design environment that can run as a plugin in a DAW. Similar to [Max](#max-msp) but only really designed for processing midi and audio data. Also includes tools for building separate UIs for instruments and effects.
+
+
+<br><br><br><br>
+
+
 ![](assets/recursive-drawing.png)
 
 # [Recursive Drawing](http://recursivedrawing.com)
@@ -1003,6 +1023,16 @@ by [Unity](https://unity.com)
 
 * Introductory [Demo Video](https://www.youtube.com/watch?v=SUZzJcBIK80) and [Blog Post](https://blogs.unity3d.com/2018/11/27/creating-explosive-visuals-with-the-visual-effect-graph/)
 * Documentation [on Github](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Visual-Effect-Graph)
+
+
+<br><br><br><br>
+
+
+![](assets/vcv-rack.png)
+
+# [VCV Rack](https://vcvrack.com/)
+
+Software modular synthesizer inspired by Eurorack hardware. Robust API with many third-party plugins. Modules connect with patch cables that carry floating point voltages.
 
 
 <br><br><br><br>
