@@ -1,6 +1,6 @@
 # Visual Programming Codex
 
-Despite the GUI going mainstream in the 80s, the programming community has largely opted to remain in the era of the terminal. Yet there have always been magnificent visual programming projects at the periphery. This repo exists to shine a light on these alternatives, see what costs and benefits they offer, and reflect on the work of people pushing for a future where programming leverages more of our senses and modalities.
+Despite the GUI going mainstream in the 80s, programming seems to have stalled in the era of the terminal and clung to coding with text. Yet there have always been magnificent visual programming projects at the periphery. This repo exists to shine a light on these alternatives, see what costs and benefits they offer, and reflect on the work of people pushing for a future where programming leverages more of our senses and modalities.
 
 1. [Implementations](implementations.md) — Specific products, projects, or prototypes. Lots of images.
 1. [Reflections](reflections.md) — Talks, articles, and papers broadly about non-textual programming.
@@ -11,8 +11,8 @@ Despite the GUI going mainstream in the 80s, the programming community has large
 1. [Communities](communities.md) — Places to talk amongst ourselves.
 1. [Impressions](impressions) — My 2¢
 
-This is a perpetual work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's small right now, but will grow and gain structure and substance over the coming years. If you know of anything that could or should be added, please do open an issue or pull request. (Personally, I haven't had much time or energy to update this recently — but I am capturing all the interesting VPLs I hear about as [issues](https://github.com/ivanreese/visual-programming-codex/issues), so check those out if you're looking for more.)
+This is a perpetual work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's fallen into a deep slumber, but will likely reawaken at some point in the coming years. If you know of anything that could or should be added, please do open an [issue](https://github.com/ivanreese/visual-programming-codex/issues) — that's where I've been placing every interesting project that I happen upon.
 
-If you're looking for ideas to implement in your own visual programming tool, you might enjoy my thoughts on this [amazing, totally made up VPL](impressions/app-store-illustration.md).
+Also, it's worth flagging that my personal focus is on the node-wire style of visual programming interface. (I don't think there have been any truly *great* node-wire tools yet, but that it wouldn't be too difficult to make one if someone were sufficiently motivated and did their research.) So given my focus, this repo does a poor job of representing spreadsheets, state charts, block languages, and other presently popular forms of visual programming.
 
-If you'd like to discuss visual programming, [DM me on Twitter](https://twitter.com/spiralganglion) or scroll down to the contact section on [my website](http://spiralganglion.com).
+In closing, if you'd like to discuss visual programming, the best place is the [Future of Coding slack](https://futureofcoding.org), but you can also scroll down to the contact section on [my website](http://spiralganglion.com).
