@@ -1,7 +1,7 @@
 ## [Anton Livaja](https://twitter.com/AntonLivaja)
-* Blog Post: [Why Visual Programming Doesn't Suck](https://blog.statebox.org/why-visual-programming-doesnt-suck-2c1ece2a414e)
+* Blog Post: [Why Visual Programming Doesn't Suck](https://medium.com/statebox/why-visual-programming-doesnt-suck-2c1ece2a414e))
     * [HN Discussion](https://news.ycombinator.com/item?id=19025639)
-    * Talks about [Statebox](https://statebox.org), who have some interesting [Medium posts](https://blog.statebox.org)
+    * Talks about [Statebox](https://medium.com/statebox), who have some interesting [Medium posts](https://medium.com/statebox)
 
 
 <br><br><br><br>
