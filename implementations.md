@@ -235,6 +235,24 @@ Fully open source and web based programming enviroment in javascript (React).
 
 <br><br><br><br>
 
+![](assets/Fabric.png)
+
+# [Fabric](https://github.com/Fabric-Project/Fabric)
+by [Anton Marini](https://vade.info)
+
+Fabric is a fully open source creative coding environment for Apple platforms, fashioned after Quartz Composer, but built using modern tooling (Swift, Metal) allowing for the creation of high fidelity interactive graphics and images and scenes. It supports physcally based rendering, image based lighting, shadows, model loading, post processing, image analysis and more. 
+
+> Fabric is intended to be used as
+
+> A Creative coding tool requires little to no programming experience.
+
+> Pro User tool to create reusable documents (similar to Quartz Composer Compositions) that can be loaded in the Fabric runtime and embedded into 3rd party applications.
+
+> Developer environment built on Satin that can render high fidelity visual output in a procedural way, using modern rendering techniques.
+
+<br><br><br><br>
+
+
 
 ![](assets/fabrik.gif)
 
