@@ -233,25 +233,24 @@ by [Rob Cheung](https://www.robcheung.com/)
 Fully open source and web based programming enviroment in javascript (React).
 > You can think of it as an extension of Sol LeWitt's process art in the sense that it's goal is to decompose art into procedural descriptions. Or you can think of it as an extension of Brian Eno's idea of "music as gardening" in the sense that it gives you a computational garden to tend to.
 
+
 <br><br><br><br>
+
 
 ![](assets/Fabric.png)
 
 # [Fabric](https://github.com/Fabric-Project/Fabric)
 by [Anton Marini](https://vade.info)
 
-Fabric is a fully open source creative coding environment for Apple platforms, fashioned after Quartz Composer, but built using modern tooling (Swift, Metal) allowing for the creation of high fidelity interactive graphics and images and scenes. It supports physcally based rendering, image based lighting, shadows, model loading, post processing, image analysis and more. 
+Fabric is a fully open source creative coding environment for Apple platforms, fashioned after Quartz Composer, but built using modern tooling (Swift, Metal) allowing for the creation of high fidelity interactive graphics and images and scenes. It supports physically-based rendering, image-based lighting, shadows, model loading, post processing, image analysis, and more.
 
 > Fabric is intended to be used as
+> * A Creative coding tool requires little to no programming experience.
+> * Pro User tool to create reusable documents (similar to Quartz Composer Compositions) that can be loaded in the Fabric runtime and embedded into 3rd party applications.
+> * Developer environment built on Satin that can render high fidelity visual output in a procedural way, using modern rendering techniques.
 
-> A Creative coding tool requires little to no programming experience.
-
-> Pro User tool to create reusable documents (similar to Quartz Composer Compositions) that can be loaded in the Fabric runtime and embedded into 3rd party applications.
-
-> Developer environment built on Satin that can render high fidelity visual output in a procedural way, using modern rendering techniques.
 
 <br><br><br><br>
-
 
 
 ![](assets/fabrik.gif)
@@ -651,7 +650,7 @@ A meta-modelling tool built on top of [Pharo](https://pharo.org/) (a SmallTalk d
 # [ossia score](https://ossia.io/)
 
 > A free, open-source, cross-platform intermedia sequencer for precise and flexible scripting of interactive scenarios.
-Control and score any OSC-compliant software or hardware: Max/MSP, PureData, openFrameworks, Processing… 
+Control and score any OSC-compliant software or hardware: Max/MSP, PureData, openFrameworks, Processing…
 
 * [Repository](https://github.com/OSSIA/score)
 
