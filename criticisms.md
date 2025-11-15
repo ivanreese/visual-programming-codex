@@ -15,6 +15,21 @@
 ### Scaling
 * The most common complaint from people _who have actually tried visual programming_ is that it works well in the small, but becomes untenable past a certain complexity threshold.
 
+### Version control
+* There is almost no generic version control systems with visual displaying of diffs (There is workaround with using git for XML generated from document, but this breaks almost all idea for visual programming ("make you free from writing a code"). But there are some implementations https://github.blog/2013-09-17-3d-file-diffs/ )
+* Node movement is diff. Parametric connection movement is diff. So each time you made multiple changes which are not changing behaviour (but only visual appearance) will cause hard to read diffs in XML representation.
+* Almost impossible to work in team on one document and keep history of changes, especially if editor is not online (but online editor introduces other challenges).
+  * How can I made merge request review? There is no visual diff usually, almost all visual programming systems can't display 2 documents on same screen (no capability, and they will not fit 2 big documents on average user display)
+  * How can I cherry pick only some changes? Only use git and back to text
+  * If there is isolated workspaces for each worker (e.g. blender local document, vivado block diagramm)
+    * How can I resolve merge conflicts? Only use git and back to text and enable my imagination how this text will look in UI
+  * If there is common workspace for each worker (e.g. google docs)
+    * 2 people are working simultaneously on some document. One of them decided revert all current changes he/she made since some checkpoint. This actoin is eigher impossible or really hard to do.
+  * How can I see history of changes with comments? Git solves that. There are some history of changes displayed (e.g. google docs), but without comments.
+* Conclusion: Using git for visual programming almost breaks UI workflow of most current visual programming tools. You will need switch to text view for almost all common tasks which git makes easy with regular programming launguages
+  * e.g. imagine XML and diffs for this https://forum.digilentinc.com/uploads/monthly_2017_03/58cb2b05db14c_wholeblockdiagram.PNG.faed870ae0e68a0adaacee535050906c.PNG 
+    * source https://forum.digilentinc.com/topic/3700-vivado-block-diagram-pmodoledrgb_axi_quad_spi_0_0/
+
 ### Brooks
 In his famous paper [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf), Fred Brooks has a section stating that software suffers from **Invisibility**:
 
